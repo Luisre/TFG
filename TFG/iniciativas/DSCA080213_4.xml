@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>213</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>1</dia>
+    <mes>septiembre</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>8-09/SAA-000003 8-09/SAA-000004</numero_expediente>
+    <extracto>8-09/SAA-000003 y 8-09/SAA-000004. Solicitudes de auditoría de los Ayuntamientos de Peñarroya-Pueblonuevo, Córdoba, y de San Fernando, Cádiz (pág. 29).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-09/SAA-000003</numero_expediente>
+        <extracto>8-09/SAA-000003. Solicitud de auditoría del Ayuntamiento de Peñarroya-Pueblonuevo, Córdoba, que abarque los ejercicios 2003 a 2007,</extracto>
+        <proponentes>el Ayuntamiento de Peñarroya-Pueblonuevo.</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-09/SAA-000004</numero_expediente>
+        <extracto>8-09/SAA-000004. Solicitud de auditoría del Ayuntamiento de San Fernando, Cádiz, sobre el estado financiero del Ayuntamiento de San Fernando, sus organismos autónomos y la Empresa Municipal de Suelo,</extracto>
+        <proponentes>el Ayuntamiento de San Fernando.</proponentes>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Aprobadas por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Y pasamos al siguiente punto del orden del día, punto cuatro, en el que tenemos dos solicitudes de auditoría de ayuntamientos: del Ayuntamiento de Peñarroya-Pueblonuevo, en Córdoba, y la del Ayuntamiento de San Fernando, en la provincia de Cádiz.</parrafo>
+        <parrafo>Entiendo que los grupos están de acuerdo con que se proceda a dar traslado de las mismas a la Cámara de Cuentas, y, por tanto, realizamos el trámite en la Comisión.</parrafo>
+        <parrafo>Pues con estos dos puntos concluimos el debate. Muchas gracias, señorías, y buen viaje de regreso.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

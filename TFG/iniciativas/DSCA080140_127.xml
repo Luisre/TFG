@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Administración regional, Inversión pública, Protección del medio ambiente, Protección del paisaje</materias>
+    <numero_expediente>8-08/PE-001808</numero_expediente>
+    <extracto>8-08/PE-001808. Pregunta escrita relativa a las inversiones en el municipio de Beas de Segura, de la provincia de Jaén, por parte de la Consejería de Medio Ambiente, en proyectos de mejora forestal (pág. 96).</extracto>
+    <proponentes>el Ilmo. Sr. D. Francisco Armijo Higueras, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor DÍAZ TRILLO, VICEPRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—De acuerdo.</parrafo>
+        <parrafo>Siguiente pregunta relativa a inversiones en el municipio de Beas de Segura, de la provincia de Jaén, formulada por el señor Armijo Higueras.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Señora Consejera, le doy por contestada la pregunta.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

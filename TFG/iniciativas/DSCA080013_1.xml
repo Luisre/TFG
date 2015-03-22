@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>13</numero_diario>
+  <tipo_sesion>constitutiva</tipo_sesion>
+  <organo>Comisión de Salud</organo>
+  <presidente>Ilma. Sra. Dña. Raquel Arenal Catena</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>6</dia>
+    <mes>mayo</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Sesión Constitutiva</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Sesión Constitutiva</tipo_iniciativa>
+    <extracto>Constitución de la Comisión y elección de los miembros de la Mesa (pág. 3)</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>D. Ignacio García Rodríguez, Vicepresidente Tercero del Parlamento de Andalucía. Dña. Carmen Noguerol Rodríguez, Letrada de la Comisión. Dña. Rosa Isabel Ríos Martínez, G.P. Socialista. Dña. Ana María Corredera Quintana, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>El señor GARCÍA RODRÍGUEZ, VICEPRESIDENTE TERCERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Señorías, buenas tardes.</parrafo>
+        <parrafo>Vamos a dar comienzo al acto de constitución de la Comisión de Salud, para lo cual, en primer lugar, damos la palabra a la señora letrada para que proceda a comprobar la existencia de quórum en este momento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora NOGUEROL RODRÍGUEZ, LETRADA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Voy a dar lectura a los nombres de los miembros de la Comisión.</parrafo>
+        <parrafo>Doña María Isabel Ambrosio Palos.</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Doña Dolores Blanca Mena.</parrafo>
+        <parrafo>Doña María Jesús Botella Serrano.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Don José Manuel Mariscal Cifuentes.</parrafo>
+        <parrafo>Doña María Eva Martín Pérez.</parrafo>
+        <parrafo>Don Antonio Núñez Roldán.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Don Juan Pizarro Navarrete.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Doña Rosa Isabel Ríos Martínez.</parrafo>
+        <parrafo>Doña Susana Rivas Pineda.</parrafo>
+        <parrafo>Don Juan Antonio Segura Vizcaíno.</parrafo>
+        <parrafo>Don Miguel Ángel Vázquez Bermúdez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GARCÍA RODRÍGUEZ, VICEPRESIDENTE TERCERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, habiendo comprobado la existencia de quórum suficiente, se da por constituida la Comisión parlamentaria de Salud y procedemos a continuación a la elección de los miembros de la Mesa.</parrafo>
+        <parrafo>Por parte del Grupo Parlamentario Socialista, ¿se tiene alguna propuesta para la Mesa?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora RÍOS MARTÍNEZ</interviniente>
+      <discurso>
+        <parrafo>—Sí. Muchas gracias, señor Presidente.</parrafo>
+        <parrafo>El Grupo Parlamentario Socialista propone como Presidenta a doña Raquel Arenal Catena y como Vicepresidente a don Juan Antonio Segura Vizcaíno.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GARCÍA RODRÍGUEZ, VICEPRESIDENTE TERCERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias.</parrafo>
+        <parrafo>Por parte del Partido Popular, ¿alguna propuesta para la Mesa?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora CORREDERA QUINTANA</interviniente>
+      <discurso>
+        <parrafo>—Sí.</parrafo>
+        <parrafo>Proponemos como Secretaria a doña Dolores López Gabarro.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GARCÍA RODRÍGUEZ, VICEPRESIDENTE TERCERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien.</parrafo>
+        <parrafo>¿Puede entenderse aprobada por unanimidad y por asentimiento la composición de la Mesa sobre la base de las candidaturas propuestas?</parrafo>
+        <parrafo>Bien, así se declara y, por tanto, la Mesa de la Comisión parlamentaria de Salud estará constituida por doña Raquel Arenal Catena como Presidenta, don Juan Antonio Segura Vizcaíno como Vicepresidente y doña Dolores López Gabarro como Secretaria.</parrafo>
+        <parrafo>Sin nada más, se levanta la sesión.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

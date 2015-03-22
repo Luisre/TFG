@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>198</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>30</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-09/EMMC-000012</numero_expediente>
+    <extracto>8-09/EMMC-000012. Elección de Secretario o Secretaria de la Comisión de Economía y Hacienda (pág. 5).</extracto>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. Rafael Velasco Sierra, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, buenas tardes. Buenas tardes, Consejera.</parrafo>
+        <parrafo>Vamos, en primer lugar, si lo tienen a bien los señores portavoces de los distintos grupos, a provocar una pequeña alternación en el orden del día. Hace algunos días se produjo y se recibió, por parte del señor Letrado, se recibió el escrito con la renuncia de la que hasta ahora había sido Secretaria de esta Comisión, y le corresponde al grupo proponente anunciar la persona que va a sustituir a quien hasta ahora ha desarrollado esa actividad, y, si los grupos lo tienen a bien, pues se podría producir su incorporación en este mismo acto.</parrafo>
+        <parrafo>Así que, en nombre del Grupo Socialista, señor Velasco.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VELASCO SIERRA</interviniente>
+      <discurso>
+        <parrafo>—Sí. Gracias, señor Presidente.</parrafo>
+        <parrafo>La propuesta que hace el Grupo Socialista para Secretaria es la parlamentaria Pilar Navarro.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Pues, si no hay ninguna objeción por parte de los grupos, señora Navarro, puede pasar a la Mesa y ejercer las funciones de Secretaria de esta Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Residuo doméstico</materias>
+    <numero_expediente>8-08/PE-001726</numero_expediente>
+    <extracto>8-08/PE-001726. Pregunta escrita relativa a los residuos sólidos urbanos en Andalucía (pág. 88).</extracto>
+    <proponentes>la Ilma. Sra. Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Consejera.</parrafo>
+        <parrafo>Siguiente, relativa a residuos sólidos urbanos en Andalucía. Señora González.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Presidenta.</parrafo>
+        <parrafo>Yo misma, ¿sobre qué, señora Consejera? Porque es que usted, la verdad, demuestra cada día menos respeto por este Parlamento, pudiendo contestar sin ningún tipo de referencias personales, ¿no? Yo creo que no estamos en esta dinámica, aunque parece que la esencia de su debate es el tema personal: cuando con lo político no sabe a dónde llegar, pues al final termina siempre igual. Yo lo lamento.</parrafo>
+        <parrafo>Simplemente decirle que esta pregunta la damos por respondida.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

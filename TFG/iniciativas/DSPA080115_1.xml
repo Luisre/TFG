@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>115</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 64</numero_sesion>
+  <fecha>
+    <dia>30</dia>
+    <mes>marzo</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de la conformidad de la Cámara para la inclusión de un nuevo punto en el orden del día (pág. 7).</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, se abre la sesión.</parrafo>
+        <parrafo>En primer lugar, paso a proponerles una modificación del orden del día consistente en la introducción de un nuevo punto: delegación de voto de doña Dolores Blanca Mena por enfermedad. ¿Cuenta la Presidenta del Parlamento con el asentimiento de la Cámara para la introducción de este nuevo punto del orden del día? De acuerdo, señorías.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

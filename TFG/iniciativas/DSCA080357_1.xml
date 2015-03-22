@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>357</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Cultura</organo>
+  <presidente>Ilmo. Sr. D. Juan Ignacio Zoido Álvarez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>20</dia>
+    <mes>mayo</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000012</numero_expediente>
+    <extracto>8-10/EMMC-000012. Elección de Presidente o Presidenta de la Comisión de Cultura (pág. 3).</extracto>
+    <votacion>Votación: aprobada por asentimiento.</votacion>
+    <intervienen>Dña. María Estrella Tomé Rico, Vicepresidenta de la Comisión. D. Juan Ignacio Zoido Álvarez, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora TOMÉ RICO, VICEPRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días, señorías. Empezamos la sesión de la Comisión, cuyo primer punto del orden del día es la elección de Presidente, tras la renuncia de la señora Botella Serrano.</parrafo>
+        <parrafo>A la Mesa ha llegado una propuesta del Partido Popular, que presenta al señor Juan Ignacio Zoido Álvarez. Si existe alguna otra propuesta de alguno de los otros grupos parlamentarios... Si no es así, entiendo que se aprueba por asentimiento de todos.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por asentimiento.</parrafo>
+        <parrafo>Bueno, pues, señor Zoido...</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días. Dar, en primer lugar, las gracias por el asentimiento como nombramiento de Presidente de la Comisión de Cultura del Parlamento de Andalucía que han tenido sus señorías para con mi persona.</parrafo>
+        <parrafo>En primer lugar, pedirles disculpas por el tono de voz, fruto de lo que la gran mayoría de sus señorías saben que ayer se vivió en Barcelona, y mis colores sevillistas yo creo que son conocidos por casi todas las personas que aquí se encuentran.</parrafo>
+        <parrafo>En segundo lugar, ponerme a su disposición para el ejercicio del puesto de Presidente de la Comisión de Cultura, con el objeto de colaborar con todas sus señorías en el buen desenvolvimiento de estas materias tan importantes en el conjunto de actuaciones de nuestra Comunidad Autónoma.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

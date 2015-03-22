@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>10</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 6</numero_sesion>
+  <fecha>
+    <dia>11</dia>
+    <mes>junio</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>8-08/OAPP-000005</numero_expediente>
+    <extracto>8-08/OAPP-000005. Elección de miembros titulares y suplentes de la Diputación Permanente (pág. 7).</extracto>
+    <votacion>Votación: Las propuestas presentadas por los Grupos Parlamentarios son aprobadas por unanimidad.</votacion>
+    <intervienen>Dña. Patricia del Pozo Fernández, Secretaria Segunda del Parlamento de Andalucía. Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenas tardes, señoras y señores Diputados. Les ruego que vayan ocupando sus escaños.</parrafo>
+        <parrafo>Vamos a abrir la sesión plenaria, correspondiente a los días 11 y 12 de junio, con el punto primero del orden del día: elección de miembros titulares y suplentes de la Diputación Permanente, para lo que ruego a la Secretaria Segunda de la Mesa que dé lectura a las propuestas presentadas por los grupos parlamentarios.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora POZO FERNÁNDEZ, SECRETARIA SEGUNDA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Sí, señora Presidenta.</parrafo>
+        <parrafo>Las propuestas presentadas por los grupos parlamentarios se refieren a los siguientes diputados y diputadas:</parrafo>
+        <parrafo>Miembros titulares: Presidenta, doña Fuensanta Coves Botella; Vicepresidente Primero, don Francisco José Álvarez de la Chica; Vicepresidenta Segunda, doña María José García-Pelayo Jurado; Vicepresidente Tercero, don Ignacio García Rodríguez; Secretario Primero, don José Luis Blanco Romero; Secretaria Segunda, doña Patricia del Pozo Fernández; Secretaria Tercera, doña María Luisa Bustinduy Barrero; Vocales, don José Luis Aguilar Gallart, don Manuel Gracia Navarro, doña Antonia Jesús Moro Cárdeno, doña Susana Díaz Pacheco, don Ángel Javier Gallego Morales, don Juan Paniagua Díaz, don Javier Arenas Bocanegra, don Antonio Sanz Cabello, doña María Esperanza Oña Sevilla y don Jorge Luis Ramos Aznar.</parrafo>
+        <parrafo>Miembros suplentes: doña Verónica Pérez Fernández, doña María del Pilar Navarro Rodríguez, don Rafael Velasco Sierra, doña Isabel Muñoz Durán, doña María Cózar Andrades, don Fidel Mesa Ciriza, doña Rosa Isabel Ríos Martínez, don Mario Jesús Jiménez Díaz, don José Caballos Mojeda, don Diego Valderas, Sosa, don Juan Ignacio Zoido Álvarez, don José Antonio Nieto Ballesteros, don José Luis Sanz Ruiz, don Carlos Rojas García, doña Ana María Corredera Quintana, don José Enrique Fernández de Moya Romero y doña María del Carmen Crespo Díaz.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señora Secretaria Segunda de la Mesa.</parrafo>
+        <parrafo>¿Puede entender la Presidencia que cuenta con el asentimiento de la Cámara para considerar a las personas propuestas como los elegidos? Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

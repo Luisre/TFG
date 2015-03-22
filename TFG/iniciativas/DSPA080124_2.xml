@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>124</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 68</numero_sesion>
+  <fecha>
+    <dia>30</dia>
+    <mes>junio</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de la conformidad de la Cámara para la inclusión de un nuevo punto en el orden del día (pág. 16).</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Señorías, finalizada la votación, y antes de levantar... Finalizado el debate, antes de levantar la sesión, señorías, permítanme tan solo unos minutos de su atención.</parrafo>
+        <parrafo>Les propongo introducir un nuevo punto en el orden del día en la sesión plenaria: designación de doña Rosario Soto Rico, como senadora, en representación de la Comunidad Autónoma de Andalucía.</parrafo>
+        <parrafo>La Mesa celebrada ayer recibió la renuncia de la señora María Luisa Ceballos Casas, como senadora, en representación de la Comunidad Autónoma de Andalucía. Igualmente, se conoció y se calificó la propuesta del Grupo Parlamentario Popular para designar senadora en su lugar a la señora Rosario Soto Rico.</parrafo>
+        <parrafo>La Comisión de Gobierno Interior y Peticiones, en la audiencia parlamentaria celebrada ayer, dio el visto bueno para esta propuesta.</parrafo>
+        <parrafo>Por tanto, les pregunto a sus señorías si es posible introducir un nuevo punto en el orden del día para la designación de la citada senadora.</parrafo>
+        <parrafo>Creo que no hay ningún problema, señorías.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

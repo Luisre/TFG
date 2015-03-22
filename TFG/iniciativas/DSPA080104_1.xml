@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>104</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 58</numero_sesion>
+  <fecha>
+    <dia>9</dia>
+    <mes>diciembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-10/DIP-000002</numero_expediente>
+    <extracto>8-10/DIP-000002. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía del Ilmo. Sr. D. Ismael Vaca Carrillo (pág. 9).</extracto>
+    <intervienen>D. Ismael Vaca Carrillo, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenos días, señoras y señores diputados.</parrafo>
+        <parrafo>Ruego a sus señorías que vayan ocupando los escaños para iniciar esta sesión plenaria.</parrafo>
+        <parrafo>Señorías, se abre la sesión. Vamos a comenzar, como es natural, por el punto primero del orden del día, juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de don Ismael Vaca Carrillo. Ruego al señor Vaca Carrillo se acerque a la tribuna a fin de dar cumplimiento a lo establecido en el artículo 5.1 del vigente Reglamento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VACA CARRILLO</interviniente>
+      <discurso>
+        <parrafo>-[Intervención no registrada.]</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

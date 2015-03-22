@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>63</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>30</dia>
+    <mes>septiembre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>7-07/SAA-000001 7-07/SAA-000003 7-07/SAA-000004 7-07/SAA-000005 7-07/SAA-000006 7-07/SAA-000007 7-07/SAA-000008 7-07/SAA-000009 7-08/SAA-000001 8-08/SAA-000001 8-08/SAA-000002 8-08/SAA-000004 8-08/SAA-000005</numero_expediente>
+    <extracto>7-07/SAA-000001, 7-07/SAA-000003, 7-07/SAA-000004, 7-07/SAA-000005, 7-07/SAA-000006, 7-07/SAA-000007, 7-07/SAA-000008, 7-07/SAA-000009, 7-08/SAA-000001, 8-08/SAA-000001, 8-08/SAA-000002, 8-08/SAA-000004, 8-08/SAA-000005. Solicitudes de auditoría de diversos ayuntamientos andaluces (pág. 51).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>7-07/SAA-000001</numero_expediente>
+        <extracto>7-07/SAA-000001. Solicitud de auditoría del Ayuntamiento de Beas (Huelva) desde la toma de posesión de la ex Alcaldesa Rosa Beltrán Ruiz,</extracto>
+        <proponentes>el Ayuntamiento de Beas (Huelva).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000003</numero_expediente>
+        <extracto>7-07/SAA-000003. Solicitud de auditoría del Ayuntamiento de Andújar (Jaén) de los ejercicios 2003, 2004, 2005 y respecto al ejercicio 2006, se referirá a la información contable contenida en la liquidación y en la Cuenta General del citado ejercicio, una vez sean aprobados ambos documentos,</extracto>
+        <proponentes>el Ayuntamiento de Andújar (Jaén).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000004</numero_expediente>
+        <extracto>7-07/SAA-000004. Solicitud de auditoría del Ayuntamiento de La Carolina (Jaén) referido a los ejercicios 2003-2007, que incluya una auditoría financiera y otra de cumplimiento de legalidad,</extracto>
+        <proponentes>el Ayuntamiento de La Carolina (Jaén).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000005</numero_expediente>
+        <extracto>7-07/SAA-000005. Solicitud de auditoría del Ayuntamiento de Posadas (Córdoba) referida a los últimos diez años,</extracto>
+        <proponentes>el Ayuntamiento de Posadas (Córdoba).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000006</numero_expediente>
+        <extracto>7-07/SAA-000006. Solicitud de auditoría del Ayuntamiento de Úbeda (Jaén) de los últimos seis ejercicios presupuestarios,</extracto>
+        <proponentes>el Ayuntamiento de Úbeda (Jaén).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000007</numero_expediente>
+        <extracto>7-07/SAA-000007. Solicitud de auditoría del Ayuntamiento de Valencina de la Concepción (Sevilla) en relación con los compromisos urbanísticos relacionados con la redacción del PGOU de Valencina de la Concepción y las consecuencias económicas y presupuestarias,</extracto>
+        <proponentes>el Ayuntamiento de Valencina de la Concepción (Sevilla).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000008</numero_expediente>
+        <extracto>7-07/SAA-000008. Solicitud de auditoría del Ayuntamiento de Cuevas del Campo (Granada) de los ocho años anteriores,</extracto>
+        <proponentes>el Ayuntamiento de Cuevas del Campo (Granada).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/SAA-000009</numero_expediente>
+        <extracto>7-07/SAA-000009. Solicitud de auditoría del Ayuntamiento de Encinas Reales (Córdoba) del periodo comprendido entre los años 2004 y 2007, ambos inclusive,</extracto>
+        <proponentes>el Ayuntamiento de Encinas Reales (Córdoba).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>7-08/SAA-000001</numero_expediente>
+        <extracto>7-08/SAA-000001. Solicitud de auditoría del Ayuntamiento de Chiclana de la Frontera (Cádiz) relativa a los ejercicios económicos 1999 a 2007,</extracto>
+        <proponentes>el Ayuntamiento de Chiclana de la Frontera (Cádiz).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-08/SAA-000001</numero_expediente>
+        <extracto>8-08/SAA-000001. Solicitud de auditoría del Ayuntamiento de Vélez-Málaga (Málaga) relativo a determinados actos, contratos, expedientes y otras materias, desde el inicio de la legislatura municipal del año 1995 hasta el 2007,</extracto>
+        <proponentes>el Ayuntamiento de Vélez-Málaga (Málaga).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-08/SAA-000002</numero_expediente>
+        <extracto>8-08/SAA-000002. Solicitud de auditoría del Ayuntamiento de Aguadulce (Sevilla) para conocer su estado financiero. Asimismo, se solicita la realización de una auditoría urbanística para conocer las condiciones en las que se encuentran las distintas urbanizaciones realizadas en los cuatro años anteriores,</extracto>
+        <proponentes>el Ayuntamiento de Aguadulce (Sevilla).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-08/SAA-000004</numero_expediente>
+        <extracto>8-08/SAA-000004. Solicitud de auditoría del Ayuntamiento de Benalmádena (Málaga) de ampliación de la fiscalización efectuada del ejercicio 2005 a todas las áreas del ayuntamiento, así como su ampliación a la legislatura completa 2003 a 2007,</extracto>
+        <proponentes>el Ayuntamiento de Benalmádena (Málaga).</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-08/SAA-000005</numero_expediente>
+        <extracto>8-08/SAA-000005. Solicitud de auditoría del Ayuntamiento de Gaucín (Málaga) relativa a los ejercicios económicos 2004 a 2007,</extracto>
+        <proponentes>el Ayuntamiento de Gaucín (Málaga).</proponentes>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Aprobadas por asentimiento.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión de Economía y Hacienda.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Y vamos... Señorías, el punto 5 —el último de la Comisión—, son 13 solicitudes que realizan distintos ayuntamientos de, prácticamente, todas las provincias de Andalucía, que, si les parece, entendemos que, por asentimiento de esta Comisión, se tramitan para que se realicen las auditorías.</parrafo>
+        <parrafo>Pues, muchas gracias y buen viaje.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

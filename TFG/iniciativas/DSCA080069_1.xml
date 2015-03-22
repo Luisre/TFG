@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>69</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Agricultura y Pesca</organo>
+  <presidente>Ilmo. Sr. D. José Cara González</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>2</dia>
+    <mes>octubre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-08/EMMC-000004</numero_expediente>
+    <extracto>8-08/EMMC-000004. Elección de Secretario o Secretaria de la Comisión de Agricultura y Pesca (pág. 5).</extracto>
+    <votacion>Votación de la propuesta de don José García Giralte: Aprobada por unanimidad.</votacion>
+    <intervienen>D. José Cara González, Presidente de la Comisión. D. José Muñoz Sánchez, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor CARA GONZÁLEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Abrimos con el primer punto del orden del día que es la elección de Secretario o Secretaria de la Comisión de Agricultura. ¿Quién propone algún proponente?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MUÑOZ SÁNCHEZ</interviniente>
+      <discurso>
+        <parrafo>—Señor Presidente, el Grupo Socialista propone a José García Giralte como Secretario de la Mesa.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor CARA GONZÁLEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—¿No hay ninguna propuesta más? Pues se acepta la propuesta. Bueno. Pues, enhorabuena… Vale, muchas gracias.</parrafo>
+        <parrafo>Señorías, se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

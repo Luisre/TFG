@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>45</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 26</numero_sesion>
+  <fecha>
+    <dia>13</dia>
+    <mes>mayo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-09/DIP-000002 8-09/DIP-000003</numero_expediente>
+    <extracto>8-09/DIP-000002 y 8-09/DIP-000003. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de D. Felipe Jesús Sicilia Alférez y de D. Mariano Ruiz Cuadra (pág. 7).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-09/DIP-000002</numero_expediente>
+        <extracto>* 8-09/DIP-000002. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de D. Felipe Jesús Sicilia Alférez.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-09/DIP-000003</numero_expediente>
+        <extracto>* 8-09/DIP-000003. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de D. Felipe Jesús Sicilia Alférez.</extracto>
+      </componente>
+    </debate_agrupado>
+    <intervienen>D. Felipe Jesús Sicilia Alférez, del G.P. Socialista. D. Mariano Ruiz Cuadra, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías...</parrafo>
+        <parrafo>Señores diputados, ruego a sus señorías que vayan ocupando los escaños.</parrafo>
+        <parrafo>Señorías, se abre la sesión que vamos a celebrar durante los días 13 y 14 de mayo.</parrafo>
+        <parrafo>Comenzamos con el punto primero del orden del día: juramento o promesa de acatar la Constitución y el Estatuto de Autonomía de Andalucía del ilustrísimo señor don Felipe Jesús Sicilia Alférez.</parrafo>
+        <parrafo>Señorías, tal y como previamente se había pactado en la Mesa del Parlamento y en la Junta de Portavoces, les propongo completar el punto del orden del día citando también para el juramento o promesa al señor don Mariano Ruiz Cuadra.</parrafo>
+        <parrafo>¿Puede contar esta Presidencia con el asentimiento de la Cámara para completar el punto primero del orden del día?</parrafo>
+        <parrafo>Muchas gracias, señorías.</parrafo>
+        <parrafo>Pues, ruego al señor Sicilia Alférez que se acerque a la tribuna a fin de dar cumplimiento a lo establecido en el artículo 5.1.4.º del vigente Reglamento, y, posteriormente, que haga lo mismo el señor Ruiz Cuadra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor SICILIA ALFÉREZ</interviniente>
+      <discurso>
+        <parrafo>-Prometo, por mi conciencia y honor, desempeñar fielmente el cargo de diputado del Parlamento de Andalucía y acatar la Constitución y el Estatuto de Autonomía de Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RUIZ CUADRA</interviniente>
+      <discurso>
+        <parrafo>-Prometo, por mi conciencia y honor, desempeñar fielmente el cargo de diputado del Parlamento de Andalucía y acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

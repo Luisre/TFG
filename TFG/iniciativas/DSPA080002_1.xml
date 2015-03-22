@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>2</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión número 2</numero_sesion>
+  <fecha>
+    <dia>16</dia>
+    <mes>abril</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-08/DIP-000001</numero_expediente>
+    <extracto>8-08/DIP-000001. Juramento o promesa del diputado D. Samuel Jesús Rodríguez Acuña (pág. 2)</extracto>
+    <intervienen>D. Samuel Jesús Rodríguez Acuña, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Por favor, ruego a sus señorías que vayan ocupando sus escaños.</parrafo>
+        <parrafo>Señorías, se abre la sesión. Y antes de dar comienzo al debate de investidura del candidato a la Presidencia de la Junta de Andalucía, señor Chaves González, y como consecuencia de la renuncia presentada por doña Bibiana Aído Almagro a su condición de diputada del Parlamento de Andalucía, procede que el diputado que la ha sustituido, don Samuel Jesús Rodríguez Acuña, preste la promesa o el juramento de acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>Ruego al señor Rodríguez Acuña que se acerque a fin de dar cumplimiento a lo establecido en el artículo 5.1. del vigente Reglamento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor RODRÍGUEZ ACUÑA</interviniente>
+      <discurso>
+        <parrafo>-Sí, prometo.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

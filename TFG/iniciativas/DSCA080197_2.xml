@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>197</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Gobierno Interior y Peticiones</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>29</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Derechos de petición</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Derechos de petición</tipo_iniciativa>
+    <numero_expediente>8-09/DEP-000005 8-09/DEP-000006</numero_expediente>
+    <extracto>8-09/DEP-000005 y 8-09/DEP-000006. Debate agrupado de los derechos de petición planteando diversos problemas relacionados con el Colegio Público Primo de Rivera o Los Cármenes de Granada y denunciando la negación por parte de la Diputación de Almería a enviar carta de pago por recibos pagados por giro postal (pág. 3).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-09/DEP-000005</numero_expediente>
+        <extracto>8-09/DEP-000005. Derecho de petición planteando diversos problemas relacionados con el Colegio Público Primo de Rivera o Los Cármenes de Granada, presentado por el Ilmo. Sr. D. Antonio Cerezo García.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-09/DEP-000006</numero_expediente>
+        <extracto>8-09/DEP-000006. Derecho de petición denunciando la negación por parte de la Diputación de Almería a enviar carta de pago por recibos pagados por giro postal, presentado por el Ilmo. Sr. D. Antonio Cerezo García.</extracto>
+      </componente>
+    </debate_agrupado>
+    <intervienen>D. José Antonio Víboras Jiménez, Letrado Mayor.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Seguimos.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VÍBORAS JIMÉNEZ, LETRADO MAYOR</interviniente>
+      <discurso>
+        <parrafo>—El siguiente derecho de petición es el que formula don Antonio Cerezo García planteando diversos problemas relacionados con el colegio público Primo de Rivera o Los Cármenes de Granada. En su escrito, presentado en la Delegación Provincial de Granada de la Consejería de Justicia y Administración Pública, don Antonio Cerezo García, aunque ofrece importantes dosis de confusión y falta de precisión, que afirma ser minusválido, parece exponer, primero, que los responsables de un colegio público sito en Granada no atienden su petición relativa a una enseñanza que se ofrece a su hijo; en segundo lugar, que existe una resolución judicial, al parecer, que sería favorable a su interés relativo al derecho a la enseñanza de su hijo; en tercer lugar, que reclama que se eliminen las barreras que les afectan como padre minusválido, y, en cuarto lugar, que el vocabulario que se utiliza dentro del colegio discrimina a los padres separados o divorciados.</parrafo>
+        <parrafo>Los fundamentos jurídicos para atender la petición a que he hecho referencia son exactamente los mismos a que antes me he referido. Dado que existe, evidentemente, competencia material de la Cámara, no existe un procedimiento específico que deba solucionarlo que hubiera hecho inadmisible el derecho de petición, y que, tanto por lo que hace referencia a su condición de ciudadano andaluz y las garantías de sus derechos e intereses como por razón de la materia de educación —artículo 52— afectada, debemos entender que este es un derecho de petición que debe ser admitido, pero que, para su satisfacción total, debe cumplirse el trámite de remitírselo a los grupos parlamentarios para que estos puedan aclarar o realizar las actuaciones que consideren oportunas al ejercicio del derecho que se pide.</parrafo>
+        <parrafo>Por tanto, admitir el derecho de petición es la conclusión; en segundo lugar, dar traslado a los grupos parlamentarios, y, en tercer lugar, comunicarle al peticionario el acuerdo adoptado.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

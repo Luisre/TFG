@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>106</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 59</numero_sesion>
+  <fecha>
+    <dia>21</dia>
+    <mes>diciembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de dos nuevos puntos en el orden del día (pág. 4)</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenos días, señoras y señores diputados.</parrafo>
+        <parrafo>Les ruego que vayan ocupando sus escaños para comenzar esta sesión plenaria.</parrafo>
+        <parrafo>Señorías, se abre la sesión.</parrafo>
+        <parrafo>Antes de comenzar el orden del día que tenemos previsto para esta sesión plenaria, voy a solicitarles la posibilidad de introducir dos nuevos puntos del orden del día. Uno primero sería la designación de doña Carmen Chico Rodríguez, doña Ana Paula Montero Barquero y don José Sánchez Maldonado como Consejeros de la Asamblea General de Unicaja. Y un segundo punto, que sería la aprobación del Dictamen sobre compatibilidad del ilustrísimo señor Ismael Vaca Carrillo.</parrafo>
+        <parrafo>¿Puede entender la Presidenta que cuenta con el asentimiento de la Cámara para la introducción de estos dos nuevos puntos del orden del día?</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por asentimiento.</parrafo>
+        <parrafo>Muchas gracias, señorías, así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

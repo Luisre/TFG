@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>127</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 71</numero_sesion>
+  <fecha>
+    <dia>14</dia>
+    <mes>septiembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>8-11/DEC-000009</numero_expediente>
+    <extracto>8-11/DEC-000009. Dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad de las Ilmas. Sras. Dña. Isabel Cabezas Regaño y Dña. María Teresa Domínguez Medina y los Ilmos. Sres. D. Iván Martínez Iglesias y D. Daniel Nieto Vázquez (pág. 8).</extracto>
+    <votacion>Votación: Aprobado por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señor Secretario Primero de la Mesa.</parrafo>
+        <parrafo>Señorías, pasamos al punto segundo del orden del día: Dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad de las ilustrísimas señoras doña Isabel Cabezas Regaño y doña María Teresa Domínguez Medina y los ilustrísimos señores don Iván Martínez Iglesias y don Daniel Nieto Vázquez.</parrafo>
+        <parrafo>Señorías, el Dictamen de la Comisión figura en la carpeta del Pleno. ¿Puede entender la Presidenta que todos ustedes conocen el contenido del Dictamen?</parrafo>
+        <parrafo>¿Puede entender también la Presidenta que se aprueba por asentimiento el Dictamen de la Comisión?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

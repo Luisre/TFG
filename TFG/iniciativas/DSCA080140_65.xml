@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Provincia de Sevilla, Suministro de agua</materias>
+    <numero_expediente>8-08/PE-001025</numero_expediente>
+    <extracto>8-08/PE-001025. Pregunta escrita relativa al abastecimiento de agua en el sistema del Consorcio de Aguas Plan Écija, Sevilla (pág. 82).</extracto>
+    <proponentes>los Ilmos. Sres. Dña. Carolina González Vigo y D. Juan Ignacio Zoido Álvarez, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—La siguiente, relativa a abastecimiento de agua en el sistema de Consorcio del Plan de Écija.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora González Vigo tiene la palabra.</interviniente>
+      <discurso>
+        <parrafo />
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Presidenta. Señora Consejera, la damos por contestada.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

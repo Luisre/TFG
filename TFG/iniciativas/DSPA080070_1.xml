@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>70</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 39</numero_sesion>
+  <fecha>
+    <dia>17</dia>
+    <mes>febrero</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>8-10/OAPP-000001</numero_expediente>
+    <extracto>8-10/OAPP-000001. Informe de la Diputación Permanente sobre los asuntos conocidos y tratados durante el periodo comprendido entre los días 1 y 31 de enero de 2010 (pág. 7).</extracto>
+    <intervienen>Dña. María Luisa Bustinduy Barrero, Secretaria Tercera del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Vamos a comenzar con el punto primero del orden del día, Informe de la Diputación Permanente sobre los asuntos conocidos y tratados durante el periodo comprendido entre los días 1 y 31 de enero del año 2010.</parrafo>
+        <parrafo>Para la lectura de este informe voy a pasarle la palabra a la Secretaria Tercera, señora Bustinduy.</parrafo>
+        <parrafo>Señora Bustinduy, su señoría tiene la palabra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora BUSTINDUY BARRERO, SECRETARIA TERCERA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Presidenta.</parrafo>
+        <parrafo>«La Diputación Permanente del Parlamento de Andalucía, de conformidad con lo dispuesto en el artículo 59 del Reglamento de la Cámara, da cuenta al Pleno del Parlamento de que, durante el periodo arriba citado, se celebró sesión el día 20 de enero de 2010, conoció los asuntos y adoptó los acuerdos que se citan:</parrafo>
+        <parrafo>»Uno. Convalidar el Decreto Ley 3/2009, de 22 de diciembre, por el que se modifican diversas leyes para la transposición en Andalucía de la Directiva 2006-123/CE, de 12 de diciembre de 2006, del Parlamento Europeo y del Consejo, relativa a los servicios en el mercado interior, y acordar su tramitación como proyecto de ley por el procedimiento de urgencia.</parrafo>
+        <parrafo>»Dos. Desestimar las siguientes solicitudes de convocatorias de sesiones extraordinarias al haber sido rechazadas por mayoría de votos en contra:</parrafo>
+        <parrafo>»Sesión extraordinaria del Pleno de la Cámara con el siguiente orden del día: Comparecencia del Consejo de Gobierno para dar cuenta de los efectos producidos por los últimos temporales acontecidos, así como de los medios y medidas adoptadas para hacer frente a los daños producidos, a petición de los Grupos Popular de Andalucía e Izquierda Unida Los Verdes-Convocatoria por Andalucía.</parrafo>
+        <parrafo>»Sesión extraordinaria del Pleno de la Cámara con el siguiente orden del día: Comparecencia del Consejo de Gobierno para dar cuenta de la situación creada en el sector almadrabero andaluz ante la reducción de la cuota de pesca del atún rojo, así como de las medidas adoptadas en defensa de los intereses andaluces, a petición de los Grupos Popular de Andalucía e Izquierda Unida Los Verdes-Convocatoria por Andalucía.</parrafo>
+        <parrafo>»Sesión extraordinaria del Pleno de la Cámara con el siguiente orden del día: Comparecencia del Consejo de Gobierno para que informe sobre los criterios seguidos para la valoración de los solares ofertados por la Administración general del Estado para el pago de la Deuda histórica en Andalucía, así como de la ficha urbanística de todos y cada uno de ellos, que permita conocer su aprovechamiento efectivo y su catalogación urbanística al día de la fecha, a petición de los Grupos Popular de Andalucía e Izquierda Unida Los Verdes-Convocatoria por Andalucía.»</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

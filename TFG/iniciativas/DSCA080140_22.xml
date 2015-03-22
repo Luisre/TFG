@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Lucha contra incendios, Monte, Provincia de Málaga</materias>
+    <numero_expediente>8-08/PE-000686</numero_expediente>
+    <extracto>8-08/PE-000686. Pregunta escrita relativa a las limpiezas de montes (pág. 60).</extracto>
+    <proponentes>los Ilmos. Sres. Dña. Ana María Rico Terrón, Dña. María Esperanza Oña Sevilla, D. Antonio Manuel Garrido Moraga, D. Francisco Ignacio Delgado Bonilla, Dña. Ana María Corredera Quintana, Dña. María Ángeles Muñoz Uriol, D. Francisco Javier Oblaré Torres y D. Miguel Ángel Ruiz Ortiz, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Regina Cuenca Cabeza, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias, Consejera.</parrafo>
+        <parrafo>Señor Ramos, le quedan segundos. Muy bien.</parrafo>
+        <parrafo>Siguiente pregunta con ruego de respuesta escrita, relativa a la limpieza de montes, que formulan la señora Rico Terrón, la señora María Esperanza Oña y el señor Garrido Moraga. ¿Alguno va a formular la pregunta o se da por contestada? Se da por contestada.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

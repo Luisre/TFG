@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>536</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Obras Públicas y Vivienda</organo>
+  <presidente>Ilmo. Sr. D. Martín Soler Márquez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>21</dia>
+    <mes>septiembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados interventores</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados interventores</tipo_iniciativa>
+    <numero_expediente>8-11/EMMC-000005 Secretario/a</numero_expediente>
+    <extracto>8-11/EMMC-000005. Elección de Secretario/a de la Comisión de Obras Públicas y Vivienda (pág. 6).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-11/EMMC-000005</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>Secretario/a</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Regina Cuenca Cabeza, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor SOLER MÁRQUEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Antes de comenzar con la Consejera de Obras Públicas en su comparecencia, en el punto primero del orden del día está la elección del Secretario o Secretaria de la Comisión. Bien. ¿Hay una propuesta? El portavoz…, ¿propuesta para elegir al Secretario de la Comisión?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA</interviniente>
+      <discurso>
+        <parrafo>—Sí. El Grupo Socialista propone al diputado Iván Martínez</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor SOLER MÁRQUEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muy bien. Propuesto el diputado.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobado por unanimidad.</parrafo>
+        <parrafo>Pues queda elegido y, por tanto, toma posesión y se sienta en la Presidencia de la Comisión. Los cargos aquí los nombramos muy rápido.</parrafo>
+        <parrafo>Consejera, cuando quiera.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

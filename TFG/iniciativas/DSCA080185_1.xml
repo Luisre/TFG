@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>185</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Empleo</organo>
+  <presidente>Ilma. Sra. Dña. María Eulalia Quevedo Ariza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>4</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-09/EMMC-000001</numero_expediente>
+    <extracto>8-09/EMMC-000001. Elección de Secretaria o Secretario de la Comisión de Empleo (pág. 6).</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. María Eulalia Quevedo Ariza, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora QUEVEDO ARIZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, ¿empezamos la Comisión, por favor? Bien. Buenos días a todos y a todas.</parrafo>
+        <parrafo>Y empezamos esta Comisión con el primer punto del orden del día, que es la elección de Secretario o Secretaria de la Comisión de Empleo.</parrafo>
+        <parrafo>¿Alguna propuesta para...?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor Gallego tiene la palabra.</interviniente>
+      <discurso>
+        <parrafo />
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GALLEGO MORALES</interviniente>
+      <discurso>
+        <parrafo>—Sí. El Grupo Parlamentario Socialista propone a Felipe Sicilia Alférez como Secretario de esta Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora QUEVEDO ARIZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Pues, ¿hay alguna...?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor LOAIZA GARCÍA</interviniente>
+      <discurso>
+        <parrafo>—El Partido Popular no propone a nadie. Lo siento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora QUEVEDO ARIZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—¿Izquierda Unida?</parrafo>
+        <parrafo>Pues nada, Felipe Sicilia es el nuevo Secretario de la Comisión de Empleo.</parrafo>
+        <parrafo>Bienvenido a esta Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

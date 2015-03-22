@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>100</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 56</numero_sesion>
+  <fecha>
+    <dia>10</dia>
+    <mes>noviembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-10/DIP-000001</numero_expediente>
+    <extracto>8-10/DIP-000001. Juramento o promesa del diputado don Manuel Carmona Jiménez (pág. 5).</extracto>
+    <intervienen>D. Manuel Carmona Jiménez, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Ruego al señor Carmona Jiménez se acerque hasta la tribuna a fin de dar cumplimiento a lo establecido en el artículo 5.1.4.º del vigente Reglamento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor CARMONA JIMÉNEZ</interviniente>
+      <discurso>
+        <parrafo>[Intervención no registrada.]</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

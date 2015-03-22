@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>86</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>3</dia>
+    <mes>noviembre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Proyectos de ley</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proyectos de ley</tipo_iniciativa>
+    <numero_expediente>8-08/EMMC-000005</numero_expediente>
+    <extracto>8-08/EMMC-000005. Elección, en su caso, de Secretario o Secretaria de la Comisión (pág. 3).</extracto>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, comenzamos esta Comisión con un primer punto en el que se va a proceder a la elección de Secretaria de la Comisión.</parrafo>
+        <parrafo>Tengo que decirles que hemos recibido un escrito del Grupo Socialista en el que se comunica la renuncia de doña Ana María Tudela Cánovas como Secretaria de la Comisión y se propone a doña Lourdes Martín Polanco para sustituirla en esas funciones.</parrafo>
+        <parrafo>Entiendo que existe asentimiento de todos los miembros de esta Comisión en proceder de acuerdo con lo establecido en el Reglamento y lo que se establece en este escrito, y, por tanto, se procederá de esa forma a cubrir la baja de doña Ana María Tudela, a la que, entiendo que en nombre de todos los miembros de la Comisión, le agradecemos los servicios que ha prestado y el trabajo que ha realizado durante este tiempo, breve, pero intenso, y recibiremos en su momento a doña Lourdes Martín Polanco para ejercer esas funciones de Secretaria.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>429</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilmo. Sr. D. Antonio Fernández García</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>17</dia>
+    <mes>noviembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000026 Vicepresidente/a</numero_expediente>
+    <extracto>8-10/EMMC-000026. Elección de Vicepresidente/a de la Comisión de Medio Ambiente (pág. 3).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-10/EMMC-000026</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>Vicepresidente/a</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobado por unanimidad.</votacion>
+    <intervienen>D. Fidel Mesa Ciriza, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor FERNÁNDEZ GARCÍA, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, buenos días. Vamos a dar inicio a la Comisión informativa de Medio Ambiente. Pero con carácter previo al inicio de la Comisión, y si sus señorías me lo permiten, introducir, dado que se ha presentado, en esta Mesa, la dimisión como Vicepresidenta de doña Susana Rivas, y, por tanto, queda, en estos momentos, sin cobertura o sin titular el puesto de Vicepresidencia, les propongo a sus señorías la cobertura del mismo, con carácter previo al inicio de esta sesión. Y, a tal fin, y si no hay ningún tipo de problema, y dado que se han superado todos los trámites técnicos según el letrado de esta Comisión, se les pregunta a los grupos si les parece bien efectuar propuestas de titular para la cobertura de este puesto.</parrafo>
+        <parrafo>¿Están conformes?</parrafo>
+        <parrafo>¿Formulación de propuestas?</parrafo>
+        <parrafo>Sí, señor Fidel Mesa.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MESA CIRIZA</interviniente>
+      <discurso>
+        <parrafo>—Sí. Gracias, señor Presidente.</parrafo>
+        <parrafo>El Grupo Socialista propone para cubrir la vacante de Vicepresidente al compañero don Manuel Carmona Jiménez, miembro de este grupo, y que se ha incorporado a esta Cámara. Aprovecho este momento para darle la bienvenida a esta Comisión, y proponerle para el cargo de Vicepresidente de la Comisión de Medio Ambiente.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor FERNÁNDEZ GARCÍA, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Mesa.</parrafo>
+        <parrafo>Entonces, tiene que [...] esta Presidencia para informar, con carácter previo, que abandona la Comisión doña María Araceli Carrillo Pérez, y en su lugar entra don Manuel Carmona, siendo, por lo tanto, ya miembro de esta Comisión; también, salvo votos en contra por parte de sus señorías, por unanimidad es nombrado titular de la Vicepresidencia de esta Mesa —que puede ocupar—, y darle así la bienvenida en nombre de toda la Comisión</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobado por unanimidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>356</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Agricultura y Pesca</organo>
+  <presidente>Ilmo. Sr. D. José Cara González</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>19</dia>
+    <mes>mayo</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000016 8-10/EMMC-000017</numero_expediente>
+    <extracto>8-10/EMMC-000016 y 8-10/EMMC-000017. Elección, en su caso, de Vicepresidente o Vicepresidenta y de Secretario o Secretaria de la Comisión (pág. 5).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-10/EMMC-000016</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-10/EMMC-000017</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobada por asentimiento.</votacion>
+    <intervienen>D. José Muñoz Sánchez, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor CARA GONZÁLEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Se abre la sesión, y empezamos con el primer punto del orden del día. Hay que elegir Secretario de la Comisión, ante las renuncias de Ana María Tudela Cánovas y José García Giralte como Vicepresidenta y Secretario de la Comisión. Y se propone a Fidel Mesa Ciriza como Secretario de la Comisión. Interino, ¿no?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MUÑOZ SÁNCHEZ</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Efectivamente, renuncian Ana María Tudela y José García Giralte, y el Grupo Socialista propone, de Vicepresidente de la Comisión, a Juan Antonio Cebrián, y de Secretaria de la Comisión, a Lourdes Martín.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor CARA GONZÁLEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Sí. ¿Todos de acuerdo?</parrafo>
+        <parrafo>Todos de acuerdo.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

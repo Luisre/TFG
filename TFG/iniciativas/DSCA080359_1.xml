@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>359</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Educación</organo>
+  <presidente>Ilma. Sra. Dña. María Cinta Castillo Jiménez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>20</dia>
+    <mes>mayo</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000001 8-10/EMMC-000015</numero_expediente>
+    <extracto>8-10/EMMC-000001 y 8-10/EMMC-000015. Elección de Presidente o Presidenta y Vicepresidente o Vicepresidenta de la Comisión de Educación (pág. 5).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-10/EMMC-000001</numero_expediente>
+        <extracto>8-10/EMMC-000001. Elección de Presidente o Presidenta de la Comisión de Educación.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-10/EMMC-000015</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación de la elección del Presidente o Presidenta de la Comisión: aprobada por unanimidad.
+Votación de la elección del Vicepresidente o Vicepresidenta de la Comisión: aprobada por unanimidad.</votacion>
+    <intervienen>D. Manuel Gracia Navarro, del G.P. Socialista. D. Fernando Manuel Martínez Vidal, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías vamos a dar comienzo a la sesión de la Comisión de Educación.</parrafo>
+        <parrafo>El primer punto del orden del día previsto es la elección de Presidente o Presidenta de la Comisión de Educación, por renuncia del anterior titular de la misma, don Paulino Plata. Pero se ha producido, también, la renuncia de doña Susana Rivas como Vicepresidenta de la Comisión de Educación, que fue comunicada en forma, y tomada nota de la misma ayer por la Mesa de la Cámara, y, en consecuencia, vengo a proponer a la Comisión que se altere el orden del día de la misma para que el punto primero comprenda la elección de Presidente o Presidenta, pero también de Vicepresidente o Vicepresidenta. Si está de acuerdo la Comisión en esta alteración del orden del día, pasaríamos entonces a la sustanciación de ese punto primero.</parrafo>
+        <parrafo>Señorías, corresponde, por lo tanto, que los grupos parlamentarios propongan para la Presidencia y la Vicepresidencia de la Comisión.</parrafo>
+        <parrafo>Por parte del Grupo Socialista, ¿señor Martínez?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MARTÍNEZ VIDAL</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Vicepresidente Primero, Presidente de la Comisión en estos momentos, el Grupo Socialista propone a la señora Castillo Jiménez como Presidenta y a la señora Tudela Cánovas como Vicepresidenta.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GRACIA NAVARRO, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Martínez.</parrafo>
+        <parrafo>¿Alguna otra propuesta?</parrafo>
+        <parrafo>Bien, señorías, está propuesta la señora Castillo y la señora Tudela, respectivamente, para la Presidencia y Vicepresidencia de la Comisión.</parrafo>
+        <parrafo>Corresponde, por lo tanto, el momento de la votación de dichos nombres.</parrafo>
+        <parrafo>Votos para la señora Castillo para ocupar la Presidencia de la Comisión.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>Votos para la señora Tudela para ocupar la Vicepresidencia de la Comisión.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>Cumplido este punto del orden del día se suspende momentáneamente la sesión de la Comisión para que se incorporen a la Mesa la Presidenta y Vicepresidenta elegidas, y continúen con el desarrollo del punto segundo y siguientes del orden del día conocido.</parrafo>
+        <parrafo>[Receso.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

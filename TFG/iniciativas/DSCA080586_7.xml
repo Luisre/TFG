@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>586</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Gobierno Interior y Peticiones</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>14</dia>
+    <mes>diciembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Derechos de petición</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Derechos de petición</tipo_iniciativa>
+    <extracto>Derechos de petición que, en su caso, califique la Mesa del Parlamento de Andalucía en su sesión de 14 de diciembre 2011 (pág. 5).</extracto>
+    <votacion>Votación: aprobado por unanimidad.</votacion>
+    <intervienen>D. José Antonio Víboras Jiménez, Letrado de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor VÍBORAS JIMÉNEZ, LETRADO MAYOR DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Y, en fin, por último, existe un escrito, que formula una ya..., una peticionaria, doña Elisa Medina Romera, en el que se solicita que emita informe aclaratorio de si nos encontramos ante un derecho de petición. En este caso concreto, el letrado que lo firma, al igual que ha hecho en otras ocasiones, entiende que el nuevo escrito de doña Elisa debe entenderse como complementario de los anteriormente remitidos por la interesada y ser acumulado en los mismos términos en que señalaba en su informe número 22/09. En consecuencia, lo que propone es que se una al expediente correspondiente, sin necesidad de abrir nuevo pronunciamiento, remitiendo el escrito a los grupos parlamentarios a los efectos oportunos.</parrafo>
+        <parrafo>¿De acuerdo?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Bien. ¿Ninguna cuestión más?</parrafo>
+        <parrafo>Se levanta la sesión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

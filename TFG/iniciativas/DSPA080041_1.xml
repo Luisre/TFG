@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>41</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 24</numero_sesion>
+  <fecha>
+    <dia>25</dia>
+    <mes>marzo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Proposiciones de ley</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proposiciones de ley</tipo_iniciativa>
+    <numero_expediente>8-08/CGAC-000017</numero_expediente>
+    <extracto>8-08/CGAC-000017. Designación de Dña. Eva Rocío Bueno López como Consejera de la Asamblea General de la Caja Provincial de Ahorros de Jaén, en sustitución de Dña. Josefa Lucas de Prados (pág. 7).</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenas tardes, señoras y señores diputados. Ruego a sus señorías que vayan ocupando los escaños, por favor.</parrafo>
+        <parrafo>Señorías vamos a comenzar esta sesión plenaria, que vamos a celebrar entre el día de hoy y mañana. Se abre la sesión, señorías, con el punto primero del orden del día, propuesta de designación de doña Eva Rocío Bueno López como Consejera Genera de la Asamblea General de la Caja Provincial de Ahorros de Jaén, en sustitución de doña Josefa Lucas de Prados.</parrafo>
+        <parrafo>Señorías, la Mesa, tras la renuncia de doña Josefa Lucas de Prados como Consejera General de la Asamblea General de la Caja Provincial de Ahorros de Jaén, ha conocido la propuesta, en sustitución de la misma, que realiza el Grupo Parlamentario Socialista a favor de doña Eva Rocío Bueno López.</parrafo>
+        <parrafo>¿Puede entender esta Presidencia que cuenta con el asentimiento de la Cámara para nombrar a doña Eva Rocío Bueno López como Consejera General de la Asamblea General de la Caja Provincial de Ahorros de Jaén?</parrafo>
+        <parrafo>Muchas gracias, señora y señores diputados.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

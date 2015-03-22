@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>428</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Agricultura y Pesca</organo>
+  <presidente>Ilmo. Sr. D. José Cara González</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>17</dia>
+    <mes>noviembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Proposiciones no de ley</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proposiciones no de ley</tipo_iniciativa>
+    <materias>Industria minera, Producto minero</materias>
+    <numero_expediente>8-10/PNLC-000385</numero_expediente>
+    <extracto>8-10/PNLC-000385, relativa a mejora de competitividad de la sal procedente de salinas de Andalucía explotadas con métodos no industriales (pág. 42).</extracto>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. José Cara González, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor CARA GONZÁLEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—¿Si quiere alguien pedir la palabra?</parrafo>
+        <parrafo>Pues nada, pues entonces vamos a pasar a votar todas las proposiciones.</parrafo>
+        <parrafo>Empezamos con la primera que se ha debatido, relativa a apoyo al sector pesquero andaluz de la merluza.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>La segunda, relativa a políticas dirigidas a la mejora de la calidad del medio rural.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido rechazada, al haber obtenido 7 votos a favor, 9 votos en contra, ninguna abstención.</parrafo>
+        <parrafo>Tercera proposición no de ley, relativa al desarrollo del capital humano en el sector agroalimentario.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>Cuarta proposición, mejora de la competitividad de la sal procedente de salinas de Andalucía explotadas con métodos no industriales.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>Se levanta la sesión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

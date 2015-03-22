@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>315</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>9</dia>
+    <mes>marzo</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>8-10/SAA-000001 8-10/SAA-000002</numero_expediente>
+    <extracto>8-10/SAA-000001 y 8-10/SAA-000002. Solicitudes de Auditoría de los Ayuntamientos de La Algaba, Sevilla, y Baeza, Jaén (pág. 31).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-10/SAA-000001</numero_expediente>
+        <extracto>8-10/SAA-000001. Solicitud de Auditoría del Ayuntamiento de La Algaba, Sevilla, durante el periodo comprendido entre los ejercicios 2006 y 2009,</extracto>
+        <proponentes>el Ayuntamiento de La Algaba, Sevilla.</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-10/SAA-000002</numero_expediente>
+        <extracto>8-10/SAA-000002. Solicitud de Auditoría del Ayuntamiento de Baeza, Jaén, correspondiente a los ejercicios del 2003 y 2007,</extracto>
+        <proponentes>el Ayuntamiento de Baeza, Jaén.</proponentes>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Aprobadas por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión de Economía y Hacienda.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Pasamos al último punto del orden del día, el punto quinto, en el que entiendo, si sus señorías no dicen lo contrario, que las solicitudes de auditoría de los ayuntamientos de la Algaba, en Sevilla, y de Baeza, en Jaén, quedan aprobadas por asentimiento de todos los miembros de esta Comisión, y, por tanto, se dará trámite a la Cámara de Cuentas para que lo efectúe.</parrafo>
+        <parrafo>Muchas gracias a todos y buen viaje de vuelta.</parrafo>
+        <parrafo>Se levanta la sesión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

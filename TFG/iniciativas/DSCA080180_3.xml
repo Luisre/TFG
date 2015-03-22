@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>180</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>2</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>8-09/SAA-000002</numero_expediente>
+    <extracto>8-09/SAA-000002. Solicitud de auditoría del Ayuntamiento de Hinojares, Jaén, en extensión adecuada al objeto propuesto (pág. 4).</extracto>
+    <proponentes>el Ayuntamiento de Hinojares, Jaén.</proponentes>
+    <votacion>Votación: aprobadas por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Igualmente, en el caso del Ayuntamiento de Hinojares, en la provincia de Jaén, que también procede su aprobación por asentimiento de todos los grupos si nadie manifiesta nada en contra.</parrafo>
+        <parrafo>Estamos de acuerdo, entonces, con todos esos puntos. Pasaríamos al tercer punto. Vamos a suspender previamente para que se incorpore la señora Consejera y podamos sustanciarlo.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+        <parrafo>[Receso.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

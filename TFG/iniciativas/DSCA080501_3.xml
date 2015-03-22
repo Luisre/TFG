@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>501</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Gobierno Interior y Peticiones</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>31</dia>
+    <mes>mayo</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados Interventores</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados Interventores</tipo_iniciativa>
+    <numero_expediente>8-11/OAPP-000006</numero_expediente>
+    <extracto>8-11/OAPP-000006. Designación de diputados interventores (pág. 15).</extracto>
+    <intervienen>D. José Antonio Víboras Jiménez, Letrado de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien, pues, entonces, vamos a pasar al punto tercero, designación de diputados interventores.</parrafo>
+        <parrafo>Y vamos a darle la palabra, de nuevo, al Letrado Mayor, para que nos informe de las propuestas de los grupos.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VÍBORAS JIMÉNEZ, LETRADO MAYOR DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—De acuerdo con lo que establece el artículo 48.3 del Reglamento de la Cámara, a los grupos parlamentarios les corresponde la propuesta al Pleno de la designación de tres diputados interventores para cada ejercicio presupuestario.</parrafo>
+        <parrafo>Los diputados interventores antes señalados tienen todavía pendiente la liquidación del presupuesto del 2010, que se celebrará próximamente, en el mes de junio. La propuesta que se realiza es con relación al ejercicio presupuestario en curso, que es el de 2011.</parrafo>
+        <parrafo>En ese caso, los grupos parlamentarios hacen las siguientes propuestas:</parrafo>
+        <parrafo>Por el Grupo Parlamentario Popular se propone a don Jorge Luis Ramos Aznar.</parrafo>
+        <parrafo>Por el Grupo Parlamentario Socialista se propone a don José Muñoz Sánchez.</parrafo>
+        <parrafo>Y por el Grupo Parlamentario de Izquierda Unida Los Verdes-Convocatoria por Andalucía se propone a don Pedro Vaquero del Pozo.</parrafo>
+        <parrafo>¿Se puede elevar al Pleno?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Bien. Aprobamos, pues, la propuesta de los grupos, ¿de acuerdo?</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

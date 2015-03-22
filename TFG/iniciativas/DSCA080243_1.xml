@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>243</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Presidencia</organo>
+  <presidente>Ilmo. Sr. D. Manuel García Quero</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>15</dia>
+    <mes>octubre</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-09/EMMC-000014</numero_expediente>
+    <extracto>8-09/EMMC-000014. Elección de Vicepresidenta o Vicepresidente de la Comisión de Presidencia (pág. 4).</extracto>
+    <votacion>Votación: aprobada por asentimiento.</votacion>
+    <intervienen>D. Manuel García Quero, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor GARCÍA QUERO, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, buenos días.</parrafo>
+        <parrafo>Vamos a iniciar la Comisión de Presidencia con una alteración en el orden del día ante la renuncia de doña Regina Cuenca Cabeza como Vicepresidenta, para nombrar nueva Vicepresidenta a propuesta del Grupo Socialista.</parrafo>
+        <parrafo>La propuesta de Vicepresidenta para...</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora FLOR ALMÓN</interviniente>
+      <discurso>
+        <parrafo>—Flor Almón.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GARCÍA QUERO, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—¿Se puede dar por aceptada a la nueva Vicepresidenta?</parrafo>
+        <parrafo>Queda nombrada Vicepresidenta del grupo Flor Almón.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

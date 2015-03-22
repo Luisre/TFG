@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>138</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 77</numero_sesion>
+  <fecha>
+    <dia>14</dia>
+    <mes>diciembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de cuatro nuevos puntos en el orden del día (pág. 8).</extracto>
+    <votacion>Votación: Aprobada por unanimidad</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenas tardes, señoras y señores diputados. Ruego a sus señorías, por favor, que vayan ocupando los escaños.</parrafo>
+        <parrafo>Bien, muchas gracias. Ruego a sus señorías, por favor, que vayan ocupando sus escaños. Ruego, por favor, silencio, para comenzar esta sesión plenaria. Bien.</parrafo>
+        <parrafo>Señorías, se abre la sesión.</parrafo>
+        <parrafo>En primer lugar, y antes de dar comienzo al orden del día, solicito a sus señorías el asentimiento para la introducción de cuatro nuevos puntos en el orden del día: elección de nuevos miembros de la Mesa de la Cámara, juramento o promesa de seis nuevos diputados y diputadas, designación de nuevos consejeros de la Cámara de Cuentas y designación de nuevo consejero de la RTVA, y elección de miembros suplentes de la Diputación Permanente.</parrafo>
+        <parrafo>¿Cuenta la Presidencia con el asentimiento de la Cámara para introducir estos cuatro nuevos puntos? De acuerdo. Señorías, así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

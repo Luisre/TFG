@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>345</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Seguimiento y Control de la Financiación de los Partidos Políticos con representación en el Parlamento de Andalucía</organo>
+  <presidente>Ilma. Sra. D. María del Carmen Pedemonte Quintana</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>5</dia>
+    <mes>mayo</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000004</numero_expediente>
+    <extracto>8-10/EMMC-000004. Elección de Vicepresidente o Vicepresidenta de la Comisión de Seguimiento y Control de la Financiación de los Partidos Políticos con Representación en el Parlamento de Andalucía (pág. 3).</extracto>
+    <intervienen>Dña. María Eulalia Quevedo Ariza, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora PEDEMONTE QUINTANA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días a todos, señorías.</parrafo>
+        <parrafo>Damos comienzo al punto del orden del día de la Comisión de Seguimiento y Control de la Financiación de los Partidos Políticos con Representación en el Parlamento de Andalucía. El orden del día es la elección de Vicepresidente, o Vicepresidenta, de la Comisión de Seguimiento y Control de la Financiación de los Partidos Políticos con Representación en el Parlamento de Andalucía.</parrafo>
+        <parrafo>Para ello tiene la palabra la señora portavoz del Grupo Socialista.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora QUEVEDO ARIZA</interviniente>
+      <discurso>
+        <parrafo>—Sí. Buenos días. Gracias, señora Presidenta.</parrafo>
+        <parrafo>El Grupo Socialista propone como Vicepresidenta a la señora Verónica Pérez.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora PEDEMONTE QUINTANA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señoría.</parrafo>
+        <parrafo>Teniendo en cuenta la propuesta, ¿consideramos que puede quedar aprobado por asentimiento o hay algún...?</parrafo>
+        <parrafo>Pues queda aprobada.</parrafo>
+        <parrafo>Se levanta la sesión.</parrafo>
+        <parrafo>Muchísimas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

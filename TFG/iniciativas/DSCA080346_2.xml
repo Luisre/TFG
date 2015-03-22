@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>346</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Asuntos Europeos</organo>
+  <presidente>Ilmo. Sr. D. José Manuel Mariscal Cifuentes</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>6</dia>
+    <mes>mayo</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000013 Secretario/a</numero_expediente>
+    <extracto>8-10/EMMC-000013. Elección de Secretario/a de la Comisión de Asuntos Europeos (pág. 16).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-10/EMMC-000013</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>Secretario/a</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <intervienen>D. Juan Antonio Segura Vizcaíno, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor MARISCAL CIFUENTES, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora Consejera.</parrafo>
+        <parrafo>Antes de dar por concluida la Comisión, vamos a modificar el orden del día, si están sus señorías de acuerdo, debido a que tenemos un escrito de renuncia del señor Antonio Núñez Roldán como Secretario de la Comisión de Asuntos Europeos.</parrafo>
+        <parrafo>¿Incluimos el punto en el orden del día? ¿Alguna propuesta para ese puesto?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor SEGURA VIZCAÍNO</interviniente>
+      <discurso>
+        <parrafo>—Sí, señor Presidente, el Grupo Parlamentario Socialista propone a la diputada Regina Cuenca Cabeza para Secretaria de la Mesa.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MARISCAL CIFUENTES, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muy bien, pues la señora Regina Cuenca.</parrafo>
+        <parrafo>¿Alguien tiene algún inconveniente? ¿Algún pero? ¿Lo aprobamos por asentimiento?</parrafo>
+        <parrafo>De acuerdo.</parrafo>
+        <parrafo>Muchas gracias, señora Consejera, y muchas gracias a todos ustedes.</parrafo>
+        <parrafo>Se levanta la sesión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

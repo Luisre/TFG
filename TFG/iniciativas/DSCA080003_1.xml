@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>3</numero_diario>
+  <tipo_sesion>constitutiva</tipo_sesion>
+  <organo>Comisión de Presidencia</organo>
+  <presidente>Ilmo. Sr. D. Manuel García Quero</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>6</dia>
+    <mes>mayo</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Sesión Constitutiva</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Sesión Constitutiva</tipo_iniciativa>
+    <extracto>Constitución de la Comisión y elección de los miembros de la Mesa (pág. 3).</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía. D. Vicente Perea Florencio, Letrado de la Comisión. Dña. Susana Díaz Pacheco, del G.P. Socialista. D. Antonio Ayllón Moreno, del G.P. Popular de Andalucía. D. Diego Valderas Sosa, del G.P. Izquierda Unida-Convocatoria por Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Buenos días, señoras y señores diputados.</parrafo>
+        <parrafo>Vamos a proceder a la constitución de la Comisión de Presidencia, para lo cual le voy a pasar la palabra al letrado, para que dé lectura a las propuestas de los grupos parlamentarios.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor PEREA FLORENCIO, LETRADO DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días. Vamos a proceder, primero, a la lectura de los miembros de la Comisión:</parrafo>
+        <parrafo>Don Antonio Ayllón Moreno.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Doña Regina Cuenca Cabeza.</parrafo>
+        <parrafo>Don Manuel García Quero.</parrafo>
+        <parrafo>Doña María José López González.</parrafo>
+        <parrafo>Don Fernando Manuel Martínez Vidal.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Don Juan Paniagua Díaz.</parrafo>
+        <parrafo>Don Isaías Pérez Saldaña.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Don José Luis Rodríguez Domínguez.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero Bernal.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo>Don Rafael Velasco Sierra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, letrado.</parrafo>
+        <parrafo>Pues, comprobado que existe quórum en la Comisión, voy a solicitar a los grupos parlamentarios las propuestas para la constitución de la Mesa.</parrafo>
+        <parrafo>Portavoz del Grupo Socialista.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora DÍAZ PACHECO</interviniente>
+      <discurso>
+        <parrafo>—Sí, gracias Presidenta.</parrafo>
+        <parrafo>La propuesta del Grupo Socialista es: como Presidente, Manuel García Quero y, como Vicepresidenta, Regina Cuenca Cabeza.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias.</parrafo>
+        <parrafo>Portavoz del Grupo Parlamentario Popular.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor AYLLÓN MORENO</interviniente>
+      <discurso>
+        <parrafo>—Sí, gracias.</parrafo>
+        <parrafo>Nosotros proponemos, como Secretaria, a María Teresa Ruiz-Sillero Bernal.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Portavoz del Grupo Parlamentario de Izquierda Unida-Los Verdes Convocatoria por Andalucía.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VALDERAS SOSA</interviniente>
+      <discurso>
+        <parrafo>—Creo que me queda poco por proponer.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Pero, por lo menos, tiene la palabra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VALDERAS SOSA</interviniente>
+      <discurso>
+        <parrafo>—Sí, vamos, la palabra no me la pueden quitar.</parrafo>
+        <parrafo>Gracias, señora Presidenta.</parrafo>
+        <parrafo>Bien, de acuerdo con el tema.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias.</parrafo>
+        <parrafo>¿Entiendo que hay asentimiento en la constitución de la Mesa de la Comisión de Presidencia?</parrafo>
+        <parrafo>Bien, pues la Mesa queda constituida de la siguiente manera: como Presidente, Manuel García Quero; como Vicepresidenta, Regina Cuenca, y, como Secretaria de la Mesa, Teresa Ruiz-Sillero.</parrafo>
+        <parrafo>A las once y seis minutos queda constituida la Comisión de Presidencia, para que empiece su trabajo.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

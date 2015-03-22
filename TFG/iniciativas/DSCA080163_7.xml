@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>163</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>31</dia>
+    <mes>marzo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Actividad parlamentaria</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Actividad parlamentaria</tipo_iniciativa>
+    <numero_expediente>8-09/OAPC-000019</numero_expediente>
+    <extracto>8-09/OAPC-000019. Solicitud a la Comisión de Economía y Hacienda a fin de que recabe de la Cámara de Cuentas de Andalucía toda la información relativa a las facturas justificantes de gastos electorales emitidas por El Paraíso de Punta Umbría, relacionadas con el Partido Socialista Obrero Español de Andalucía, con ocasión de la celebración de las elecciones al Parlamento de Andalucía en 2008 (pág. 42).</extracto>
+    <proponentes>el G.P. Popular de Andalucía.</proponentes>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—El punto 2 es una solicitud que realiza el Grupo Popular para que se recabe de la Cámara de Cuentas toda la información relativa a las facturas justificantes de gastos electorales emitidas por El Paraíso de Punta Umbría relacionadas con el Partido Socialista Obrero Español de Andalucía con ocasión de la celebración de las elecciones al Parlamento de Andalucía en 2008.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>8</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 5</numero_sesion>
+  <fecha>
+    <dia>28</dia>
+    <mes>mayo</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-08/DIP-000112</numero_expediente>
+    <extracto>8-08/DIP-000112. Juramento o promesa de la Diputada Dña. Eulalia Quevedo Ariza (pág. 7).</extracto>
+    <intervienen>Dña. María Eulalia Quevedo Ariza, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, vayan ocupando sus escaños, por favor.</parrafo>
+        <parrafo>Vamos a dar comienzo a esta nueva sesión plenaria correspondiente a los días 28 y 29 de mayo del 2008.</parrafo>
+        <parrafo>Y antes de empezar a tratar los diferentes puntos del orden del día de esta sesión, como consecuencia de la renuncia presentada por doña María Isabel Ambrosio Palos a su condición de diputada del Parlamento de Andalucía... Decía que antes..., y teniendo en cuenta que la sustituye doña María Eulalia Quevedo Ariza, procede ahora la promesa o juramento de acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>De manera que ruego a la señora Quevedo Ariza...</parrafo>
+        <parrafo>Señorías, es enormemente complicado que me entiendan con este murmullo tan alto.</parrafo>
+        <parrafo>Ruego a la señora Quevedo Ariza que se acerque a fin de dar cumplimiento a esta promesa o juramento de la Constitución y del Estatuto de Autonomía para Andalucía.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora QUEVEDO ARIZA</interviniente>
+      <discurso>
+        <parrafo>-Prometo, por mi conciencia y honor, desempeñar fielmente el cargo de diputada del Parlamento de Andalucía y acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

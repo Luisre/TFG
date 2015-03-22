@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>43</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 25</numero_sesion>
+  <fecha>
+    <dia>21</dia>
+    <mes>abril</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-09/DIP-000001</numero_expediente>
+    <extracto>8-09/DIP-000001. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de la diputada Dña. María Dolores Cañero Pedroche (pág. 3).</extracto>
+    <intervienen>Dña. María Dolores Cañero Pedroche, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenos días, señoras y señores diputados, señores invitados.</parrafo>
+        <parrafo>Ruego a sus señorías que vayan ocupando sus escaños, por favor.</parrafo>
+        <parrafo>Señorías, se abre la sesión.</parrafo>
+        <parrafo>Comenzamos con el orden del día previsto para la jornada de hoy. Punto primero del orden del día: Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de la ilustrísima señora doña María Dolores Cañero Pedroche.</parrafo>
+        <parrafo>Ruego a la señora Cañero Pedroche se acerque a la tribuna a fin de dar cumplimiento a lo establecido en el artículo 5.1.4.º del vigente Reglamento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora CAÑERO PEDROCHE</interviniente>
+      <discurso>
+        <parrafo>-Prometo por mi conciencia y honor desempeñar fielmente el cargo de Diputada del Parlamento de Andalucía y acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

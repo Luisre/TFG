@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Agua subterránea, Curso de agua, Provincia de Jaén, Recurso hidráulico</materias>
+    <numero_expediente>8-08/PE-000991</numero_expediente>
+    <extracto>8-08/PE-000991. Pregunta escrita relativa a la captación de aguas subterráneas en la Sierra de Segura de la provincia de Jaén (pág. 80).</extracto>
+    <proponentes>el Ilmo. Sr. D. Francisco Armijo Higueras, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Regina Cuenca Cabeza, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—La siguiente relativa a captación de agua subterránea en la Sierra de Segura de la provincia de Jaén.</parrafo>
+        <parrafo>¿Señor Armijo? No se encuentra presente. Se da por contestada.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

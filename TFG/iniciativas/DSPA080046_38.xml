@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>46</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 26</numero_sesion>
+  <fecha>
+    <dia>14</dia>
+    <mes>mayo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Senado</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Senado</tipo_iniciativa>
+    <numero_expediente>8-09/SENA-000001 8-09/SENA-000002</numero_expediente>
+    <extracto>8-09/SENA-000001, 8-09/SENA-000002. Designación de D. Luis García Garrido y de D. Francisco Vallejo Serrano como senadores en representación de la Comunidad Autónoma de Andalucía (pág. 108).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-09/SENA-000001</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-09/SENA-000002</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Designados senadores, D. Luis García Garrido por 104 votos y D. Francisco Vallejo Serrano por 101 votos y 4 votos en blanco.</votacion>
+    <intervienen>Dña. María Luisa Bustinduy Barrero, Secretaria Tercera del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, antes de levantar el Pleno, les ruego que me presten unos minutos de atención.</parrafo>
+        <parrafo>La Mesa de la Cámara, en sesión celebrada el pasado día 6 de mayo del año 2009, conoció la renuncia presentada tanto por la excelentísima señora doña María del Mar Moreno Ruiz como del excelentísimo señor don Luis Pizarro Medina al cargo de senadores en representación de la Comunidad Autónoma de Andalucía. Asimismo, la Mesa conoció la propuesta del Grupo Parlamentario Socialista de designación como senadores en sustitución de los antes citados de don Luis García Garrido y a don Francisco Vallejo Serrano, junto con los escritos correspondientes de estos aceptando la designación y declarando que no se encuentran inmersos en supuesto alguno de incompatibilidad. Asimismo, la Comisión de Gobierno Interior y Peticiones, en la audiencia parlamentaria pública que ya se ha celebrado, ha dado su aprobación a la propuesta presentada a favor de don Luis García Garrido.</parrafo>
+        <parrafo>Como consecuencia de todo ello, pregunto al Pleno de la Cámara, aunque previamente ya ha sido pactado en la Mesa y en la Junta de Portavoces, si me autorizan a introducir un nuevo punto del orden del día que rezaría lo siguiente:</parrafo>
+        <parrafo>Designación de senadores de don Luis García Garrido y don Francisco Vallejo Serrano en representación de la Comunidad Autónoma de Andalucía. ¿Dan ustedes su asentimiento?</parrafo>
+        <parrafo>Muchísimas gracias.</parrafo>
+        <parrafo>Al tratarse de una elección de personas les recuerdo que debe hacerse por votación secreta y por papeleta, que creo que los servicios de la Cámara ya han repartido, de tal manera que a partir de ahora ruego a la Secretaria Tercera de la Mesa que proceda al llamamiento de sus señorías.</parrafo>
+        <parrafo>Señora Secretaria.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora BUSTINDUY BARRERO, SECRETARIA TERCERA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Presidenta.</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Don Francisco Javier Arenas Bocanegra.</parrafo>
+        <parrafo>Don Francisco Armijo Higueras.</parrafo>
+        <parrafo>Don Antonio Ayllón Moreno.</parrafo>
+        <parrafo>Doña Dolores Blanca Mena.</parrafo>
+        <parrafo>Doña María Jesús Botella Serrano.</parrafo>
+        <parrafo>Don José Caballos Mojeda.</parrafo>
+        <parrafo>Doña María Dolores Calderón Pérez.</parrafo>
+        <parrafo>Doña María Dolores Cañero Pedroche.</parrafo>
+        <parrafo>Don José Cara González.</parrafo>
+        <parrafo>Doña María Araceli Carrillo Pérez.</parrafo>
+        <parrafo>Don José Antonio Castro Román.</parrafo>
+        <parrafo>Don Juan Antonio Cebrián Pastor.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Doña María Cózar Andrades.</parrafo>
+        <parrafo>Doña María Carmen Crespo Díaz.</parrafo>
+        <parrafo>Doña Regina Cuenca Cabeza.</parrafo>
+        <parrafo>Don Francisco Ignacio Delgado Bonilla.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Don José Juan Díaz Trillo.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Don José Enrique Fernández de Moya Romero.</parrafo>
+        <parrafo>Don Salvador Fuentes Lopera.</parrafo>
+        <parrafo>Don Ángel Javier Gallego Morales.</parrafo>
+        <parrafo>Don José García Giralte.</parrafo>
+        <parrafo>Don Manuel García Quero.</parrafo>
+        <parrafo>Don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Doña Carolina González Vigo.</parrafo>
+        <parrafo>Don Manuel Gracia Navarro.</parrafo>
+        <parrafo>Doña Ángeles Isac García.</parrafo>
+        <parrafo>Don Mario Jesús Jiménez Díaz.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vílchez.</parrafo>
+        <parrafo>Don José Loaiza García.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Doña María José López González.</parrafo>
+        <parrafo>Don Bartolomé Madrid Olmo.</parrafo>
+        <parrafo>Doña Elia Rosa Maldonado Maldonado.</parrafo>
+        <parrafo>Don José Manuel Mariscal Cifuentes.</parrafo>
+        <parrafo>Doña Aránzazu Martín Moya.</parrafo>
+        <parrafo>Doña María Lourdes Martín Palanco.</parrafo>
+        <parrafo>Doña María Eva Martín Pérez.</parrafo>
+        <parrafo>Doña Alicia Martínez Martín.</parrafo>
+        <parrafo>Don Fernando Manuel Martínez Vidal.</parrafo>
+        <parrafo>Don Fidel Mesa Ciriza.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Don José Muñoz Sánchez.</parrafo>
+        <parrafo>Doña María Ángeles Muñoz Uriol.</parrafo>
+        <parrafo>Doña Evangelina Naranjo Márquez.</parrafo>
+        <parrafo>Doña María del Pilar Navarro Rodríguez.</parrafo>
+        <parrafo>Don José Antonio Nieto Ballesteros.</parrafo>
+        <parrafo>Don Antonio Núñez Roldán.</parrafo>
+        <parrafo>Don Francisco Javier Oblaré Torres.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>Doña María Esperanza Oña Sevilla.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Don Juan Paniagua Díaz.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Doña Verónica Pérez Fernández.</parrafo>
+        <parrafo>Don Santiago Pérez López.</parrafo>
+        <parrafo>Don Juan Pizarro Navarrete.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Doña María Eulalia Quevedo Ariza.</parrafo>
+        <parrafo>Don Jorge Luis Ramos Aznar.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Doña María del Carmen Reyes Ruiz.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Doña Rosa Isabel Ríos Martínez.</parrafo>
+        <parrafo>Doña Susana Rivas Pineda.</parrafo>
+        <parrafo>Don Samuel Jesús Rodríguez Acuña.</parrafo>
+        <parrafo>Don José Luis Rodríguez Domínguez.</parrafo>
+        <parrafo>Don Pedro Rodríguez González.</parrafo>
+        <parrafo>Don Carlos Rojas García.</parrafo>
+        <parrafo>Don Mariano Ruiz Cuadra.</parrafo>
+        <parrafo>Don Miguel Ángel Ruiz Ortiz.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero Bernal.</parrafo>
+        <parrafo>Doña María Concepción Sacramento Villegas.</parrafo>
+        <parrafo>Don Juan Manuel Sánchez Gordillo.</parrafo>
+        <parrafo>Don Antonio Sanz Cabello.</parrafo>
+        <parrafo>Don José Luis Sanz Ruiz.</parrafo>
+        <parrafo>Don Juan Antonio Segura Vizcaíno.</parrafo>
+        <parrafo>Don Felipe Jesús Sicilia Alférez.</parrafo>
+        <parrafo>Don Antonio Torres López.</parrafo>
+        <parrafo>Doña Ana María Tudela Cánovas.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano.</parrafo>
+        <parrafo>Don Pedro Vaquero del Pozo.</parrafo>
+        <parrafo>Don Miguel Ángel Vázquez Bermúdez.</parrafo>
+        <parrafo>Don Rafael Velasco Sierra.</parrafo>
+        <parrafo>Don José Antonio Viera Chacón.</parrafo>
+        <parrafo>Don Juan Ignacio Zoido Álvarez.</parrafo>
+        <parrafo>Don José Antonio Griñán Martínez.</parrafo>
+        <parrafo>Don Luis Pizarro Medina.</parrafo>
+        <parrafo>Doña María del Mar Moreno Ruiz.</parrafo>
+        <parrafo>Don Martín Soler Márquez.</parrafo>
+        <parrafo>Don Antonio Fernández García.</parrafo>
+        <parrafo>Doña María Jesús Montero Cuadrado.</parrafo>
+        <parrafo>Doña Clara Eugenia Aguilera García.</parrafo>
+        <parrafo>Don Luciano Alonso Alonso.</parrafo>
+        <parrafo>Doña Micaela Navarro Garzón.</parrafo>
+        <parrafo>Doña Rosario Torres Ruiz.</parrafo>
+        <parrafo>Doña María Cinta Castillo Jiménez.</parrafo>
+        <parrafo>Don José Luis Aguilar Gallart.</parrafo>
+        <parrafo>Doña María Luisa Bustinduy Barrero.</parrafo>
+        <parrafo>Doña Patricia del Pozo Fernández.</parrafo>
+        <parrafo>Don José Luis Blanco Romero.</parrafo>
+        <parrafo>Don Ignacio García Rodríguez.</parrafo>
+        <parrafo>Doña María José García-Pelayo Jurado.</parrafo>
+        <parrafo>Don Francisco José Álvarez de la Chica.</parrafo>
+        <parrafo>Doña Fuensanta Coves Botella.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, realizado el escrutinio, el resultado ha sido el siguiente:</parrafo>
+        <parrafo>Don Luis García Garrido ha obtenido 104 votos.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano, 101 votos, y 4 votos en blanco.</parrafo>
+        <parrafo>De tal manera que el señor Luis García Garrido y Francisco Vallejo Serrano pueden considerarse senadores en representación de la Comunidad Autónoma de Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Señorías, se levanta la sesión. Tengan buen viaje de vuelta a casa.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

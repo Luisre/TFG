@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>15</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 73</numero_sesion>
+  <fecha>
+    <dia>11</dia>
+    <mes>septiembre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Senado</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Senado</tipo_iniciativa>
+    <numero_expediente>6-03/PPPL-000001</numero_expediente>
+    <extracto>6-03/PPPL-000001. Elección de la terna de miembros del Parlamento de Andalucía que defenderán en el Congreso de los Diputados la proposición de Ley relativa a la modificación del texto refundido de la Ley General de la Seguridad Social, de forma que se posibilite la protección social y la contratación laboral de los investigadores (pág. 19).</extracto>
+    <votacion>Votación: La propuesta es aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, ha tenido conocimiento esta Presidencia de que el próximo martes, día 16 de septiembre, tendrá lugar en el Congreso de los Diputados el debate de toma en consideración de la proposición de ley relativa a la modificación del texto refundido de la Ley General de la Seguridad Social, de forma que se posibilite la protección social y la contratación laboral de los investigadores.</parrafo>
+        <parrafo>El Grupo Parlamentario Socialista había propuesto la ratificación del ilustrísimo señor don José Luis Blanco Romero para la defensa de dicha iniciativa en la Cámara Baja de las Cortes Generales, y el Grupo Parlamentario Popular ya propuso en su día al ilustrísimo señor don José Enrique Fernández de Moya Romero para dicho cometido. En la mañana del día de hoy, el Grupo Parlamentario de Izquierda Unida Los Verdes-Convocatoria por Andalucía ha propuesto la ratificación del ilustrísimo señor don José Manuel Mariscal Cifuentes.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Por favor. ¿Cuenta esta Presidencia con el asentimiento de la Cámara para introducir un nuevo punto en el orden del día que sería la elección de la terna de miembros del Parlamento de Andalucía que defenderán la proposición de ley antes citada en el Congreso de los Diputados?</parrafo>
+        <parrafo>Cuento con su asentimiento.</parrafo>
+        <parrafo>Bien, pues, por último ya, ¿cuenta la Presidencia con el asentimiento para la ratificación de los señores Blanco Romero, Mariscal Cifuentes y Fernández de Moya para la defensa de esta proposición de ley?</parrafo>
+        <parrafo>Muchísimas gracias por su generosidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

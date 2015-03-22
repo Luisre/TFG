@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>588</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Hacienda y Administración Pública</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>21</dia>
+    <mes>diciembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de cuentas</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de cuentas</tipo_iniciativa>
+    <numero_expediente>8-11/PRCC-000013</numero_expediente>
+    <extracto>8-11/PRCC-000013. Debate final del proyecto de Reglamento de Organización y Funcionamiento de la Cámara de Cuentas de Andalucía (pág. 3).</extracto>
+    <votacion>Votación: aprobado por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días, señorías.</parrafo>
+        <parrafo>Vamos a dar comienzo a esta sesión de la Comisión de Hacienda y Administración Pública, cuyo orden del día está integrado exclusivamente por el proyecto de Reglamento de Organización y Funcionamiento de la Cámara de Cuentas de Andalucía, cosa que ha sido consensuado por los tres grupos, y que, según se ha manifestado a esta Mesa, ninguno de ellos desea intervenir, dado dicho consenso. Así que vamos a pasar directamente a la votación.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobado por unanimidad.</parrafo>
+        <parrafo>Se levanta la sesión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

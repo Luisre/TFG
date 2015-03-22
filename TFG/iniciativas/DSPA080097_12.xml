@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>97</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 54</numero_sesion>
+  <fecha>
+    <dia>14</dia>
+    <mes>octubre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Administración judicial, Informática jurídica, Sevilla</materias>
+    <numero_expediente>8-10/POP-000451</numero_expediente>
+    <extracto>8-10/POP-000451. Pregunta oral relativa a la implantación del nuevo sistema de notificaciones judiciales (Lexnet) en Sevilla (pág. 38).</extracto>
+    <proponentes>los Ilmos. Sres. Dña. María del Pilar Navarro Rodríguez y D. Fernando Manuel Martínez Vidal, del G.P. Socialista.</proponentes>
+    <intervienen>D. Fernando Manuel Martínez Vidal, del G.P. Socialista. D. Luis Pizarro Medina, Consejero de Gobernación y Justicia.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señor Consejero. Lo lamento, pero su tiempo ha concluido. Gracias.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+        <parrafo>Señorías, continuamos con la siguiente pregunta, relativa a la implantación del nuevo sistema de notificaciones judiciales en Sevilla, que formula el Grupo Parlamentario Socialista y que dirige al Consejero de Gobernación y Justicia.</parrafo>
+        <parrafo>Para formularla, tiene la palabra el señor Martínez Vidal.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MARTÍNEZ VIDAL</interviniente>
+      <discurso>
+        <parrafo>-Gracias, señora Presidenta.</parrafo>
+        <parrafo>Señor Consejero, la Consejería de Gobernación y Justicia ha iniciado la implantación de un nuevo, novedoso sistema de notificación, un sistema telemático de notificaciones judiciales, a través de una experiencia piloto que se está desarrollando en el juzgado número 11, juzgado de primera instancia número 11, de esta capital. Es un sistema, como digo, basado en una aplicación informática, en la aplicación conocida como Lexnet, que seguro que va a contribuir, a mejorar, a agilizar las comunicaciones judiciales, y con ello esto redundará en la mejora del servicio de Justicia.</parrafo>
+        <parrafo>Es por eso por que lo que el Grupo Socialista quiere conocer esta mañana, concretamente, las ventajas que va a tener la implantación de este mecanismo, de este nuevo sistema, así como cómo va a ser el desarrollo progresivo del mismo en el conjunto de los órganos judiciales de Sevilla.</parrafo>
+        <parrafo>Nada más y muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señor Martínez Vidal.</parrafo>
+        <parrafo>Señor Consejero de Gobernación y Justicia, su señoría tiene la palabra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor PIZARRO MEDINA, CONSEJERO DE GOBERNACIÓN Y JUSTICIA</interviniente>
+      <discurso>
+        <parrafo>-Señora Presidenta. Señor Martínez Vidal.</parrafo>
+        <parrafo>Señorías, la implantación del Lexnet en Andalucía supone un paso más en el proceso de modernizar y agilizar la Administración de justicia de nuestra Comunidad Autónoma. El Lexnet es una herramienta informática que permite el envío telemático de las notificaciones de documentos judiciales, como providencias, autos y sentencias. Su uso, por tanto, agiliza considerablemente la tramitación de los procedimientos.</parrafo>
+        <parrafo>Las principales ventajas que proporciona este sistema son: Primero, acortar el tiempo de tramitación de los procedimientos; facilitar el acceso de los ciudadanos a los documentos de los procesos que les afecten; aumentar la fiabilidad y agilidad de las notificaciones de las resoluciones judiciales; proporcionar una mayor seguridad al garantizar la integridad, confidencialidad y autenticidad de las comunicaciones gracias a la utilización de firmas electrónicas reconocidas; facilitar la gestión posterior de documentos, y el ahorro de papel.</parrafo>
+        <parrafo>Respecto a la implantación de este sistema en los 27 juzgados de primera instancia de Sevilla, la Consejería de Gobernación y Justicia ha comenzado a implantar el sistema de Lexnet en el juzgado de primera instancia número 11 de forma piloto, y posteriormente se ampliará a los 27 juzgados restantes. Para ello se ha facilitado formación específica para los funcionarios que van a utilizar este sistema informático. Además, previamente se han iniciado los trabajos que permitirán su desarrollo con habilitar los servidores y redes de comunicación, adaptarlos al programa Adriano, dotar de firma electrónica y dar alta a los usuarios. Se trata de ejecutar actuaciones previas a la implantación que garantice que el programa funcione con total éxito cuando se ponga en marcha entre el Colegio de Procuradores y la Administración de justicia.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señor Consejero de Gobernación y Justicia.</parrafo>
+        <parrafo>Señor Martínez Vidal, su señoría tiene la palabra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MARTÍNEZ VIDAL</interviniente>
+      <discurso>
+        <parrafo>-Gracias, señora Presidenta. Y gracias, señor Consejero.</parrafo>
+        <parrafo>Estamos convencidos de que los colegios profesionales van a colaborar de forma decidida en el desarrollo de este nuevo sistema; que a través de la agilización de los procedimientos y de un acercamiento de un mundo, del todo no bien conocido por la ciudadanía, como es el de la justicia... A veces los conceptos forenses suenan extraños a los ciudadanos normales, a los ciudadanos de a pie. Creemos que con medidas de este tipo todo esto se mejora, se consigue una familiarización mejor de la ciudadanía con la Justicia, y, además, se consigue lo que es el objetivo, que es mejorar un servicio público esencial, como es este de la Justicia.</parrafo>
+        <parrafo>Le agradecemos la respuesta, señor Consejero, porque, claro, está esta es una buena noticia, esta es una noticia positiva para los operadores jurídicos y para la sociedad en general, y, claro, es una mala noticia, o una noticia inexistente, para la oposición, para el Partido Popular, que de aquello que es positivo nunca habla.</parrafo>
+        <parrafo>Nada más y muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

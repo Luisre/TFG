@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>193</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Salud</organo>
+  <presidente>Ilma. Sra. Dña. Raquel Arenal Catena</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>17</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-09/EMMC-0000003</numero_expediente>
+    <extracto>8-09/EMMC-0000003. Elección de Vicepresidente de la Comisión de Salud (pág. 6).</extracto>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Raquel Arenal Catena, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora ARENAL CATENA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días, señorías.</parrafo>
+        <parrafo>Les pido disculpas por el retraso y les solicito su asentimiento para introducir en el orden del día un nuevo punto, que es el cambio de la persona de la Vicepresidencia, para lo cual solicito a la portavoz del Grupo Parlamentario Socialista si tiene alguna propuesta.</parrafo>
+        <parrafo>[Intervención no registrada.]</parrafo>
+        <parrafo>De acuerdo. Si no hay ninguna objeción por parte de los demás grupos, damos a Mariano Ruiz Cuadra la bienvenida y deseamos a Juan Antonio Segura Vizcaíno buenos deseos como miembro de la Comisión. Y bienvenido Mariano como Vicepresidente.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

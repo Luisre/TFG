@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>98</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 55</numero_sesion>
+  <fecha>
+    <dia>27</dia>
+    <mes>octubre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <numero_expediente>8-10/DEC-000004</numero_expediente>
+    <extracto>8-10/DEC-000004. Acuerdo sobre la efectividad de la delegación de voto ejercitada por la Ilma. Sra. Araceli Carrillo Pérez a favor del Ilmo. Sr. D. Juan Antonio Cebrián Pastor (pág. 7).</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Bien, vamos a pasar primero a acordar la delegación de voto de doña Araceli Carrillo Pérez y de don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Señorías, la Mesa, en sesión celebrada el pasado 13 de octubre, visto el escrito formulado por la señora Carrillo Pérez, y atendiendo a los antecedentes que concurren en el caso, acordó proponer a la Comisión del Estatuto de los Diputados que en el dictamen correspondiente se pronunciara a favor de que el Pleno de la Cámara acordase que la delegación de voto que se solicita tuviera carácter general, en tanto se prolongase la enfermedad que la motiva, sin perjuicio de revocaciones en días concretos, bastando para ello la mera comunicación formal a la Presidenta del Parlamento de Andalucía.</parrafo>
+        <parrafo>La Comisión del Estatuto ha emitido un dictamen favorable. ¿Cuenta la Presidenta de la Cámara con su asentimiento para no dar lectura al contenido de todo el dictamen de la Comisión?</parrafo>
+        <parrafo>De acuerdo, señorías.</parrafo>
+        <parrafo>¿Puede entender, entonces, la Presidenta que el Pleno aprueba la delegación de voto de doña Araceli Carrillo Pérez en la persona del señor Cebrián Pastor?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

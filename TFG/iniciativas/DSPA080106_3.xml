@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>106</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 59</numero_sesion>
+  <fecha>
+    <dia>21</dia>
+    <mes>diciembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-10/DEC-000008</numero_expediente>
+    <extracto>8-10/DEC-000008. Dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad de don Ismael Vaca Carrillo como diputado del Parlamento de Andalucía (pág. 4).</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>D. José Luis Blanco Romero, Secretario Primero del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Bien, señorías. Finalmente, el siguiente punto sería el Dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad del señor Ismael Vaca Carrillo.</parrafo>
+        <parrafo>Señor Secretario Primero, ruego dé lectura del Dictamen.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor BLANCO ROMERO, SECRETARIO PRIMERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señora Presidenta, señorías.</parrafo>
+        <parrafo>«La Comisión del Estatuto de los Diputados, dando cumplimiento de lo dispuesto en el vigente Reglamento del Parlamento de Andalucía, tiene el honor de elevar el siguiente Dictamen:</parrafo>
+        <parrafo>»Reunida la Comisión del Estatuto de los Diputados el día 10 de diciembre de 2010, ha examinado la declaración presentada por el señor diputado, que se expresará, y ha adoptado por unanimidad los siguientes acuerdos:</parrafo>
+        <parrafo>»Primero. Considerar que, según la normativa vigente, de la documentación presentada y del conocimiento que poseen los miembros de la Comisión no se deduce incompatibilidad alguna en el diputado cuya actividad ha sido ahora examinada.</parrafo>
+        <parrafo>»Segundo. En consecuencia, procede proponer al Pleno la declaración de compatibilidad del siguiente diputado: ilustrísimo señor don Ismael Vaca Carrillo.</parrafo>
+        <parrafo>»Sevilla, 10 de diciembre de 2010.</parrafo>
+        <parrafo>»Firmado, el Presidente de la Comisión del Estatuto de los Diputados, José Luis Sanz Ruiz.»</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señor Secretario Primero.</parrafo>
+        <parrafo>Señorías, ¿puede entender la Presidencia que cuenta con el asentimiento de la Cámara?</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobado por asentimiento.</parrafo>
+        <parrafo>Bien, pues así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

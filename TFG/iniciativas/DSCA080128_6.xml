@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>128</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>3</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Actividad parlamentaria</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Actividad parlamentaria</tipo_iniciativa>
+    <numero_expediente>8-08/OAPC-000003 8-08/OAPC-000072</numero_expediente>
+    <extracto>8-08/OAPC-000003 y 8-08/OAPC-000072. Resúmenes del movimiento y situación de la Tesorería y de las operaciones de ejecución del Presupuesto correspondientes al cuarto trimestre de 2007 y al primer trimestre de 2008. (pág. 33).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-08/OAPC-000003</numero_expediente>
+        <extracto>8-08/OAPC-000003. Resúmenes del movimiento y situación de la Tesorería y de las operaciones de ejecución del Presupuesto correspondientes al cuarto trimestre de 2007.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-08/OAPC-000072</numero_expediente>
+        <extracto>8-08/OAPC-000072. Resúmenes del movimiento y situación de la Tesorería y de las operaciones de ejecución del Presupuesto correspondientes al primer trimestre de 2008.</extracto>
+      </componente>
+    </debate_agrupado>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—El punto siguiente del orden del día se refiere a los resúmenes del movimiento y situación de la Tesorería y de las operaciones de ejecución del Presupuesto correspondientes al cuarto trimestre de 2007, así como los que corresponden también al primer trimestre de 2008. En este caso, la Comisión toma conocimiento de los considerados resúmenes, que ya fueron en su día, y en cumplimiento de lo acordado por la Mesa del Parlamento, remitidos a los miembros de la Comisión, tanto en papel como en soporte informático.</parrafo>
+        <parrafo>Y con este punto damos por concluida la Comisión. Les deseo buen viaje a todos y que empecemos bien este periodo de sesiones.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

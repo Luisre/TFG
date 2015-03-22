@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 78</numero_sesion>
+  <fecha>
+    <dia>21</dia>
+    <mes>diciembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de conformidad de la Cámara para la inclusión de dos nuevos puntos en el orden del día (pág. 4).</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenos días, señoras y señores diputados. Ruego a sus señorías que vayan ocupando los escaños.</parrafo>
+        <parrafo>Bien, señorías, vamos a comenzar esta nueva sesión plenaria que hemos convocado para los días de hoy y mañana. Señorías, y en primer lugar, me gustaría solicitarles la posibilidad de incluir dos nuevos puntos en el orden del día, consistentes en la elección de miembros titular y suplente de la Diputación Permanente y designación de senadores o senadoras en representación de la Comunidad Autónoma de Andalucía.</parrafo>
+        <parrafo>¿Cuenta la Presidencia con el asentimiento de la Cámara para la introducción de estos dos nuevos puntos del orden del día? De acuerdo, señorías. Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>42</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 24</numero_sesion>
+  <fecha>
+    <dia>26</dia>
+    <mes>marzo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Declaraciones institucionales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Declaraciones institucionales</tipo_iniciativa>
+    <numero_expediente>8-09/DI-000004</numero_expediente>
+    <extracto>8-09/DI-000004. Declaración Institucional sobre la Hora de la Tierra del próximo 28 de marzo (pág. 98).</extracto>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, permítanme unos minutos antes de pasar a la siguiente iniciativa para que les lea una declaración institucional del Parlamento de Andalucía sobre la Hora de la Tierra del próximo 28 de marzo.</parrafo>
+        <parrafo>«El próximo 28 de marzo se llevará a cabo la denominada Hora de la Tierra, una acción simbólica, con carácter planetario, consistente en la interrupción voluntaria de las fuentes luminosas no consideradas esenciales.</parrafo>
+        <parrafo>»Con esta iniciativa demostrativa, auspiciada por el colectivo World Wildlife Found y secundada por personas y ciudades de todo el mundo, se pretende concienciar a la ciudadanía acerca del cambio climático y sobre cómo se puede actuar desde el ámbito personal y mediante la sensible modificación de hábitos y conductas para contrarrestar sus indudables efectos.</parrafo>
+        <parrafo>»Por sus condiciones geográficas y naturales nuestra Comunidad Autónoma es una de las más expuestas a las repercusiones derivadas de la acción del cambio climático. De ahí que resulte sumamente necesario buscar la implicación y el compromiso de toda la sociedad en las medidas que se coordinen y activen para atenuar las consecuencias de este fenómeno.</parrafo>
+        <parrafo>»Ante la cita del próximo sábado 28 de marzo a las 20:30, el Parlamento de Andalucía, como máxima representación de la ciudadanía, propone sumarse a la iniciativa, al tiempo que invita a las instituciones y ciudadanía andaluzas a apoyar y participar activamente en la misma.</parrafo>
+        <parrafo>»Firmado: Grupo Parlamentario Socialista, Grupo Parlamentario Popular y Grupo Parlamentario de Izquierda Unida Los Verdes-Convocatoria por Andalucía».</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

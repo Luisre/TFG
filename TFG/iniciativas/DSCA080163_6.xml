@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>163</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>31</dia>
+    <mes>marzo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Actividad parlamentaria</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Actividad parlamentaria</tipo_iniciativa>
+    <numero_expediente>8-09/OAPC-000018</numero_expediente>
+    <extracto>8-09/OAPC-000018. Solicitud a la Comisión de Economía y Hacienda a fin de que recabe de la Cámara de Cuentas de Andalucía toda la información relativa a las facturas justificantes de gastos electorales emitidas por la sociedad Rialgreen, S.L., relacionadas con el Partido Popular de Andalucía con ocasión de la celebración de las elecciones al Parlamento de Andalucía en 2004 (pág. 42).</extracto>
+    <proponentes>el G.P. Socialista.</proponentes>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Pasamos al punto 5, que... Se trata de otros asuntos parlamentarios.</parrafo>
+        <parrafo>El primer apartado es la solicitud que realiza el Grupo Socialista para que se recabe de la Cámara de Cuentas de Andalucía toda la información relativa a las facturas justificantes de gastos electorales emitidas por la sociedad Rialgreen, S.L., relacionadas con el Partido Popular de Andalucía con ocasión de la celebración de las elecciones al Parlamento de Andalucía en 2004.</parrafo>
+        <parrafo>Tenemos que votar —entiendo— cada una de las solicitudes.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

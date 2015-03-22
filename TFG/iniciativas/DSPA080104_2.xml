@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>104</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 58</numero_sesion>
+  <fecha>
+    <dia>9</dia>
+    <mes>diciembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Informes y dictámenes</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Informes y dictámenes</tipo_iniciativa>
+    <numero_expediente>8-10/DEC-000007</numero_expediente>
+    <extracto>8-10/DEC-000007. Dictamen de la Comisión del Estatuto de los Diputados sobre la compatibilidad del Ilmo. Sr. D. Manuel Carmona Jiménez (pág. 9).</extracto>
+    <intervienen>D. José Luis Blanco Romero, Secretario Primero del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, continuamos con el punto segundo del orden del día: dictamen de la Comisión de Estatuto de los Diputados sobre la compatibilidad de don Manuel Carmona Jiménez.</parrafo>
+        <parrafo>Ruego al Secretario Primero de la Mesa que dé lectura a este dictamen.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor BLANCO ROMERO, SECRETARIO PRIMERO DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señora Presidenta. Señorías.</parrafo>
+        <parrafo>«La Comisión del Estatuto de los Diputados, dando cumplimento a lo dispuesto en el vigente Reglamento del Parlamento de Andalucía, tiene el honor de elevar el siguiente dictamen.</parrafo>
+        <parrafo>»Reunida la Comisión del Estatuto de los Diputados el día 18 de noviembre de 2010, ha examinado la declaración presentada por el señor Diputado, que se expresará, y ha adoptado por unanimidad los siguientes acuerdos:</parrafo>
+        <parrafo>»Primero. Considerar que, según la normativa vigente, de la documentación presentada y del conocimiento que proceden los miembros de la Comisión no se deduce incompatibilidad alguna en el diputado cuya actividad ha sido ahora examinada.</parrafo>
+        <parrafo>»Segundo. En consecuencia, procede proponer al Pleno la declaración de compatibilidad del siguiente señor diputado, ilustrísimo señor don Manuel Carmona Jiménez.</parrafo>
+        <parrafo>»Sevilla, 18 de noviembre de 2010.»</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

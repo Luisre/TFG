@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>534</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Educación</organo>
+  <presidente>Ilma. Sra. Dña. María Cinta Castillo Jiménez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>8</dia>
+    <mes>septiembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados interventores</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo, Ponencias de estudio y Diputados interventores</tipo_iniciativa>
+    <numero_expediente>8-11/EMMC-000004 Secretario/a</numero_expediente>
+    <extracto>8-11/EMMC-000004. Elección de Secretario/a de la Comisión de Educación (pág. 5).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-11/EMMC-000004</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>Secretario/a</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <intervienen>D. Santiago Pérez López, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CASTILLO JIMÉNEZ, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, buenos días. Yo espero que ustedes hayan disfrutado de las vacaciones, de la familia, de los amigos, y hayan podido descansar y tener ahora mucha fuerza y energía para lo que nos queda en este periodo de sesiones que, con esta Comisión, comenzamos.</parrafo>
+        <parrafo>El primer punto del orden del día es la elección de Secretario o Secretaria de la Comisión, debido a la baja, al haberse ido el diputado que hasta ahora tenía ese cargo, diputado Oblaré, que tiene ahora otras responsabilidades y funciones en su provincia y ha dejado de ser diputado autonómico.</parrafo>
+        <parrafo>Para proceder a la elección del nuevo Secretario o Secretaria, yo voy a pedir al portavoz del Grupo Parlamentario Popular la propuesta que tenga que hacernos.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor PÉREZ LÓPEZ</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora Presidenta.</parrafo>
+        <parrafo>Y nuestro grupo va a proponer para la Secretaría de la Comisión a doña María Teresa Domínguez Medina.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora CASTILLO JIMÉNEZ, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muy bien. Muchas gracias.</parrafo>
+        <parrafo>¿Algún otro portavoz quiere intervenir o hacer alguna otra propuesta? Muy bien, pues damos, desde luego, por aprobada esa propuesta que nos hacen e invitamos a la diputada Domínguez Medina a que ocupe su puesto como Secretaria de la Comisión, dándole la bienvenida en nombre de todos los miembros de esta Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Provincia de Granada</materias>
+    <numero_expediente>8-08/PE-001763</numero_expediente>
+    <extracto>8-08/PE-001763. Pregunta escrita relativa a la depuradora de aguas residuales del municipio de Nevada, Granada (pág. 91).</extracto>
+    <proponentes>la Ilma. Sra. Dña. María del Carmen Reyes Ruiz, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>D. José Juan Díaz Trillo, Vicepresidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor DÍAZ TRILLO, VICEPRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Pasamos a... —no me importa que me digan señora, ¿eh?—, pasamos a la siguiente pregunta, que es relativa a la depuradora de aguas residuales del municipio de Nevada, Granada, formulada por María del Carmen Reyes Ruiz.</parrafo>
+        <parrafo>No está, ¿no?</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

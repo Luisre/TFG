@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>39</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 23</numero_sesion>
+  <fecha>
+    <dia>11</dia>
+    <mes>marzo</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Proyectos de ley</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proyectos de ley</tipo_iniciativa>
+    <materias>Edificio público, Fundación, Málaga, Museo, Patrimonio de las regiones</materias>
+    <numero_expediente>8-09/PL-000001</numero_expediente>
+    <extracto>8-09/PL-000001. Debate y votación, en su caso, del Proyecto de Ley por la que se autoriza la transmisión de la titularidad del inmueble denominado Palacio de los Condes de Buenavista, sito en Málaga, c/ San Agustín, n.º 8 (pág. 7).</extracto>
+    <votacion>Votación: Aprobado por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, ¿alguno de los grupos parlamentarios quiere intervenir en el turno de posicionamiento? Pregunto a los grupos parlamentarios.</parrafo>
+        <parrafo>Bien, si no es así, correspondería en estos momentos proceder a la votación de este proyecto de ley, que, como saben, en la Mesa de esta mañana se ha decidido postergarlo no antes de la siete de la tarde.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

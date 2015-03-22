@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>95</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 53</numero_sesion>
+  <fecha>
+    <dia>30</dia>
+    <mes>septiembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <numero_expediente>8-10/DEC-000000</numero_expediente>
+    <extracto>8-10/DEC-000000. Solicitud de la conformidad de la Cámara para la inclusión de un nuevo punto en el orden del día (pág. 17).</extracto>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Muchas gracias, señor Vaquero del Pozo.</parrafo>
+        <parrafo>Señorías, antes de pasar al siguiente punto del orden del día, le ruego tan solo unos minutos de silencio..., perdón unos minutos de atención.</parrafo>
+        <parrafo>En la Mesa celebrada ayer mismo vimos un escrito del parlamentario del Grupo Popular, del señor don Antonio Manuel Garrido Moraga, por el que solicita delegar su voto los días 29 y 30 de septiembre, 13 y 14 de octubre, en el Diputado de su mismo grupo, señor Ramos Aznar. Esta misma mañana se ha celebrado la Comisión del Diputado y ha apreciado que concurren todas las circunstancias para poder acceder a dicha delegación.</parrafo>
+        <parrafo>Por tanto, la Presidenta les pregunta a los diputados y diputadas si es posible la inclusión de un nuevo punto en el orden del día para poder aceptar esta delegación de voto.</parrafo>
+        <parrafo>¿Hay algún problema en la introducción de un nuevo punto? Ninguna.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

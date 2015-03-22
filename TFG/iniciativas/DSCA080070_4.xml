@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>70</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Justicia y Administración Pública</organo>
+  <presidente>Ilmo. Sr. D. Juan Ignacio Zoido Álvarez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>2</dia>
+    <mes>octubre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Administración judicial, Informática</materias>
+    <numero_expediente>8-08/POC-000279</numero_expediente>
+    <extracto>8-08/POC-000279. Pregunta oral relativa a modernización de sistemas informáticos de justicia (pág. 19).</extracto>
+    <proponentes>el Ilmo. Sr. D. Carlos Rojas García, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>D. Carlos Rojas García, del G.P. Popular de Andalucía. Dña. Evangelina Naranjo Márquez, Consejera de Justicia y Administración Pública.</intervienen>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora Consejera.</parrafo>
+        <parrafo>Pregunta con ruego de respuesta oral en Comisión relativa a la modernización de los sistemas informáticos de Justicia.</parrafo>
+        <parrafo>Tiene la palabra el señor Rojas García.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ROJAS GARCÍA</interviniente>
+      <discurso>
+        <parrafo>—Señor Presidente, muchas gracias. Muy buenos días —tardes, casi, ya—.</parrafo>
+        <parrafo>Voy a dar por formulada la pregunta.</parrafo>
+        <parrafo>Señora Consejera, también gracias por su asistencia y por poderme contestar ahora a esta pregunta; pero sí quisiera, señor Presidente, como cuestión previa, y en nombre del Grupo Popular y creo que en nombre de toda la Comisión, manifestarle nuestra total solidaridad y apoyo ante las inaceptables coacciones a las que se ha visto sometido el señor Presidente de esta Comisión, por una mano cobarde y anónima, y que espero que, desde esta Comisión, desde la Justicia, se actúe con toda contundencia para que estas situaciones no se vuelvan a repetir.</parrafo>
+        <parrafo>Y, sin nada más que decir, doy por formulada la pregunta.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Rojas García.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora Consejera tiene la palabra.</interviniente>
+      <discurso>
+        <parrafo />
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora NARANJO MÁRQUEZ, CONSEJERA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA</interviniente>
+      <discurso>
+        <parrafo>—Señorías. Señor Rojas.</parrafo>
+        <parrafo>El sistema de tramitación procesal Adriano, como usted bien conoce, se diseñó e implantó en el año 2001, tres años después de las transferencias de estas competencias. Según la tecnología disponible en aquel momento, se estableció una estructura de bases de datos distribuida en función del número de edificios judiciales. Dicho sistema ha dado muy buen rendimiento y permitido que los diferentes juzgados puedan trabajar en modo local en tiempos en los que el despliegue de la red corporativa no podía garantizar la interconexión fiable de los juzgados.</parrafo>
+        <parrafo>Al igual que no podemos comparar la tecnología que tenían nuestros propios teléfonos móviles en el año 2001 con la que ahora tienen —entonces los avances tecnológicos no permitían la interconexión entre los sistemas informáticos de los diferentes juzgados andaluces—, esta tecnología ha sido, como es lógico, superada en escaso periodo de tiempo, y Adriano, por tanto, está cristalizado en una tecnología válida para su momento, pero que no lo es —válida— para el momento que vivimos hoy día.</parrafo>
+        <parrafo>De ahí que en mi primera comparecencia anunciara como nuestro objetivo prioritario la modernización del programa Adriano. En esta solución llevamos trabajando desde entonces, y lo estamos haciendo en tres direcciones concretas:</parrafo>
+        <parrafo>En primer lugar, diseñando un sistema que va permitir incorporar el flujo documental de entrada de documentos a Adriano en formato electrónico, lo cual es un paso necesario para avanzar en la implantación, como ya estamos haciendo, del expediente digital.</parrafo>
+        <parrafo>Segundo, mediante el desarrollo de un sistema de alarmas y alertas basado en la información que contiene Adriano y que permita detectar diferentes tipos de situaciones. Esta línea de trabajo es la misma línea que está impulsando el Ministerio de Justicia.</parrafo>
+        <parrafo>Y tres, desarrollando herramientas que añadan funcionalidad a Adriano para poder gestionar los juzgados, no solamente para tramitar asuntos como ahora, sino para que, además, puedan ofrecer información a los gestores, de tal manera que acerque su funcionamiento a la manera de cualquier organización moderna.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Tiene la palabra el señor Rojas.</parrafo>
+        <parrafo>Y le recuerdo que tiene cuatro minutos, quince segundos. A ver eso cómo soy yo capaz de ordenarlo, ¿eh?</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+        <parrafo>Señor Rojas.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ROJAS GARCÍA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente. Con su venia.</parrafo>
+        <parrafo>Señor Consejera, hace ya dos legislaturas que la primera Consejera de Justicia de la Junta, la señora Hermosín, puso en marcha el llamado Plan Adriano; un plan informático para la Justicia en Andalucía que tuvo un coste superlativo.</parrafo>
+        <parrafo>El Plan Adriano y las aplicaciones informáticas, tanto en software como en hardware, de la Junta de Andalucía en Justicia rondan ya los cien millones de euros, señora Consejera, de gasto desde aquel tiempo al que le hago referencia. Es un gasto, sin duda, superlativo, espectacular. Pero a los gobiernos no hay que juzgarlos por lo que gastan, sino por cómo lo gastan, porque, señorías, el Plan Adriano, esto es, el trabajo informático de la Junta en justicia, ha sido todo un fiasco, un gasto mal realizado o, por decirlo de manera más benevolente, un gasto poco aprovechado. Fue muy criticado en su tiempo, y lo ha sido durante todo este tiempo, por los sindicatos de Justicia —«Lentitud» le decían como apelativo al Plan Adriano los sindicatos—. Hasta veinte minutos en abrir un procedimiento judicial, en dar un paso, en abrir un documento, hasta veinte minutos. Imagínese el retraso, señora Consejera.</parrafo>
+        <parrafo>Usted me podrá decir ahora que el Consejo General del Poder Judicial alabó el sistema Adriano, y yo le digo que, si eso es así, el máximo órgano de los jueces se equivocó, con toda franqueza porque, probablemente, solo atendieron a un criterio cuantitativo de la inversión.</parrafo>
+        <parrafo>La comisión de análisis del consejo deberá analizar ahora toda la estructura informática de los juzgados en toda España, al igual que el Ministerio de Justicia y las autonomías tienen que articular un sistema común integrado, al menos, para la interconexión de datos. Yo le pido, señora Consejera, en esta intervención y desde el Grupo Popular, que se ponga a trabajar en ello pero con seriedad, porque hasta ahora mismo el sistema no funciona. Un sistema de interconexión de datos tiene que funcionar inmediatamente, similar al de la Hacienda Pública, donde, cuando un delincuente tiene que ingresar en prisión, donde, cuando se cumpla un plazo, salte inmediatamente una luz roja que nos proteja a todos los ciudadanos y que ponga al delincuente en la cárcel. Hasta ahora, el plan informático ha sido un fiasco, se han gastado muchísimo dinero y les pedimos que corrijan esa situación para dar a los juzgados mucha más agilidad y, sobre todo, para que la Justicia pueda ejercer su labor de aplicar la ley, de ejecutar la sentencia, de poner a los delincuentes en la cárcel y de proteger con eficacia a todos los ciudadanos de Andalucía.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Rojas.</parrafo>
+        <parrafo>No ha llegado a agotar su plazo, se lo agradezco por la disciplina en cuanto al tiempo.</parrafo>
+        <parrafo>Señora Consejera, le quedan tres minutos.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora NARANJO MÁRQUEZ, CONSEJERA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Señor Rojas, la más interesada en que haya finalmente un programa —porque en estos momentos la tecnología sí nos lo permite— de esas características es esta Consejera que le habla. No es una excusa, pero no hay en todo el territorio nacional, en ninguna Comunidad y, por supuesto, en lo que es el territorio del Ministerio de Justicia, un programa, lamentablemente, de esas características. Nosotros estamos trabajando en ello.</parrafo>
+        <parrafo>Y sería lo esencial y lo deseable. Y nuestro programa, y el trabajo que estamos desarrollando y que hemos empezado al principio de la legislatura, es para la interconexión de los juzgados andaluces porque —como usted bien sabe— en el resto del territorio nacional tendrá que ser aprobado y homologado no solamente por el Consejo, sino también por el Ministerio. Pero creo y estoy firmemente convencida de que, si desde Andalucía damos el paso, el resto de los organismos públicos y jurídicos de nuestro país nos van a seguir.</parrafo>
+        <parrafo>Mire usted, Adriano es un sistema complejo y difícil. Un sistema que, entre número de asuntos, acontecimientos, documentos y resoluciones, maneja más de una media..., un promedio anual de 24 millones de este tipo de asuntos. Estamos trabajando en ello y creo que lo vamos a conseguir. Prueba de ello es la digitalización de los expedientes donde, una vez más, Andalucía ha dado muestras de modernidad, de querer y saber hacer las cosas. Solamente, en la historia judicial de nuestro país, un caso —el desgraciado caso 11-M— ha sido digitalizado; el siguiente en el país, en España: el caso Malaya, digitalizado por el Gobierno autonómico. Que vamos a seguir haciéndolo para que algún día, efectivamente, los expedientes digitales, los nuevos, los que no están en estos momentos abiertos sean una realidad y podamos terminar de ver esa imagen que ahora tanto usted como yo conocemos de lo que son los juzgados andaluces.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

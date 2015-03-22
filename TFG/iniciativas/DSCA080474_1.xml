@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>474</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. María Cózar Andrades</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>23</dia>
+    <mes>marzo</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>7-07/OICC-000002</numero_expediente>
+    <extracto>7-07/OICC-000002. Informe especial de la Cámara de Cuentas de fiscalización de la gestión de los parques naturales de Andalucía.</extracto>
+    <intervienen>Ilma. Sra. Dña. María Cózar Andrades</intervienen>
+    <intervencion>
+      <interviniente>La señora CÓZAR ANDRADES, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Habiendo quórum ya para constituir esta Comisión, la damos por constituida.</parrafo>
+        <parrafo>Y tengo que explicar que habiéndose puesto en el orden del día los tres informes especiales de la Cámara de Cuentas, que estaban pendientes de ser vistos, y habiendo tenido la inconveniencia de que el Presidente de la Cámara de Cuentas toma posesión justamente en este momento —o no sé si media hora más tarde quizás, ¿no?, a las once—, ahora, pues es evidente que no puede acompañarnos esta mañana para dar cumplida explicación de los tres puntos para los que se le requería.</parrafo>
+        <parrafo>Como ustedes saben, a las once y media estaba previsto que hiciéramos una visita a Ecoembes, a Alcalá del Río. Y este es el punto del orden día que queda vivo. Por tanto, se suspende la sesión hasta las once y media, hora en la que todos deberemos estar en el aparcamiento, donde nos esperará el microbús que envía la empresa para hacernos llegar hasta allí.</parrafo>
+        <parrafo>Nada más y muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

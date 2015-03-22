@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>142</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión extraordinaria número 79</numero_sesion>
+  <fecha>
+    <dia>25</dia>
+    <mes>enero</mes>
+    <anio>2012</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-12/DIP-000001 8-12/DIP-000002</numero_expediente>
+    <extracto>8-12/DIP-000001 y 8-12/DIP-000002. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de Dña. Isabel Belmonte Soler y Dña. Soledad Martínez Román (pág. 5).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-12/DIP-000001</numero_expediente>
+        <extracto>* 8-12/DIP-000001. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de Dña. Isabel Belmonte Soler.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-12/DIP-000002</numero_expediente>
+        <extracto>* 8-12/DIP-000002. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de Dña. Soledad Martínez Román.</extracto>
+      </componente>
+    </debate_agrupado>
+    <intervienen>Dña. Isabel Belmonte Soler, del G.P. Popular de Andalucía. Dña. Soledad Martínez Román, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenos días, señoras y señores diputados, señores y señoras invitadas a este debate. Ruego a sus señorías, por favor, que vayan ocupando sus escaños. Gracias.</parrafo>
+        <parrafo>Ruego a sus señorías, por favor, que vayan ocupando los escaños. Vamos a comenzar esta sesión plenaria.</parrafo>
+        <parrafo>Señorías, se abre la sesión convocada para hoy, 25 de enero. Comenzamos desarrollando los diferentes puntos del orden del día. El primero, juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de la ilustrísima señora doña Isabel Belmonte Soler y la ilustrísima señora doña Soledad Martínez Román.</parrafo>
+        <parrafo>Ruego a la señora Belmonte Soler se acerque hasta la tribuna para jurar o prometer la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora BELMONTE SOLER</interviniente>
+      <discurso>
+        <parrafo>-Juro por mi conciencia y honor desempeñar fielmente el cargo de diputada del Parlamento de Andalucía y acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora DEL POZO FERNÁNDEZ, VICEPRESIDENTA SEGUNDA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señora Martínez Román, por favor.</parrafo>
+        <parrafo>Señora Martínez Román, ¿jura o promete acatar la Constitución y el Estatuto de Autonomía para Andalucía?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora MARTÍNEZ ROMÁN</interviniente>
+      <discurso>
+        <parrafo>-Juro por mi conciencia y honor desempeñar fielmente el cargo de diputada del Parlamento de Andalucía y acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>235</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Justicia y Administración Pública</organo>
+  <presidente>Ilmo. Sr. D. Juan Ignacio Zoido Álvarez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>1</dia>
+    <mes>octubre</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Internet, Administración judicial, Juzgado</materias>
+    <numero_expediente>8-09/POC-000608</numero_expediente>
+    <extracto>8-09/POC-000608. Pregunta oral relativa a la página web para los juzgados de lo mercantil de Andalucía (pág. 25).</extracto>
+    <proponentes>las Ilmas. Sras. Dña. María del Pilar Navarro Rodríguez y Dña. Ana María Tudela Cánovas, del G.P. Socialista.</proponentes>
+    <intervienen>Dña. Ana María Tudela Cánovas, del G.P. Socialista. Dña. Begoña Álvarez Civantos, Consejera de Justicia y Administración Pública.</intervienen>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora diputada.</parrafo>
+        <parrafo>Pasamos a la siguiente pregunta con ruego de respuesta oral, relativa a la página web para los juzgados de lo mercantil de Andalucía.</parrafo>
+        <parrafo>Tiene la palabra, para ello, la señora Navarro Rodríguez... Señora Tudela Cánovas, perdón.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora TUDELA CÁNOVAS</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, Presidente. Señora Consejera, buenos días.</parrafo>
+        <parrafo>En esta jornada de Comisión de hoy, hemos podido escuchar distintos debates sobre distintas preocupaciones de los distintos diputados. Pero lo que sí creo que quedará claro, pese a quien le pese, es que, si podemos resumir esta Comisión en dos temas fundamentales, y... La orientación política y el trabajo político de esta Consejería han sido, precisamente, en dos aspectos fundamentales, que así le parece a mi grupo, como, como son la modernidad y las nuevas tecnologías.</parrafo>
+        <parrafo>El caso concreto que le pregunto también tiene que ver con los juzgados de lo mercantil. Usted ha mencionado, en su primera comparecencia, que el Gobierno de la Junta de Andalucía, no ajeno al aumento de litigiosidad en lo mercantil, debido a esta crisis mundial que nos ha tocado vivir, pues, también ha puesto en marcha, o lleva poniendo en marcha una serie de actuaciones para, en la parte que le toca a la Consejería que usted dirige, favorecer o por lo menos responder a las demandas que tienen los ciudadanos y que tienen los que operan en el sistema judicial con respecto al aumento de la litigiosidad, como digo, en los juzgados de lo mercantil. Señora Consejera, la Consejería de Justicia y Administración Pública ha decidido promover la elaboración de una página web, de uso exclusivo para este tipo de juzgados en Andalucía, como consecuencia de lo que he dicho anteriormente. Y nos gustaría conocer cuál es el grado de elaboración actual de la referida página web, qué funcionalidades y ventajas va a aportar a los juzgados de lo mercantil.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora diputada.</parrafo>
+        <parrafo>Señora Consejera, tiene la palabra para responder.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora ÁLVAREZ CIVANTOS, CONSEJERA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, Presidente.</parrafo>
+        <parrafo>Señoría, efectivamente, la página web de lo mercantil, por la que su señoría se interesa, va a convertirse, con toda seguridad, en una herramienta muy útil para descargar de trabajo al personal que desempaña sus funciones en estos órganos, y para ofrecer información vía Internet a los acreedores y a la ciudadanía.</parrafo>
+        <parrafo>Se trata de un módulo del sistema de gestión procesal Adriano, que va a proporcionar información acerca de los concursos de acreedores que se tramitan en los juzgados de lo mercantil. El sistema telemático va a tener dos partes diferenciadas. Una de carácter interno, integrado en el sistema de gestión procesal Adriano, que solo será accesible por el personal del juzgado, y en el que se introducirá la información de los concursos de acreedores que este órgano quiere que sea visible tanto para el ciudadano como para los acreedores, y este módulo interno no será accesible a través de Internet. Y también tendrá una segunda parte, o módulo externo, que será la parte que va a mostrar la información a los acreedores y a la ciudadanía en abierto; es decir, esta parte del sistema sí será accesible a través de Internet por el portal Adriano.</parrafo>
+        <parrafo>Una parte de este módulo externo mostrará la información a la ciudad en general, donde se podrán comprobar las empresas que tienen concurso y el estado en que se encuentran. Y, por otra parte, habrá un módulo privado para los acreedores, al que se accederá a través de la firma digital, donde tendrán toda la información sobre el concurso.</parrafo>
+        <parrafo>Señorías, el desarrollo del trabajo informático se ha dividido en varias fases. Una primera fase, en la que se han concluido los trabajos del módulo interno, con el que trabajarán los juzgados de lo mercantil, y en la información pública del módulo externo, es decir, la que estará disponible a la ciudadanía. Una segunda fase, en la que se ha trabajado en la información privada del módulo interno, que se terminó este verano. Y una tercera fase, en la que estamos trabajando, que es la conexión con el sistema procesal Adriano.</parrafo>
+        <parrafo>Debo decirles que, con la finalización de las dos primeras fases el sistema, puede estar plenamente operativo, porque la tercera fase lo que trata es de agilizar la introducción de algunos datos por parte de los órganos judiciales.</parrafo>
+        <parrafo>En estos importantes desarrollos telemáticos estamos trabajando muy estrechamente con el juzgado mercantil número 1 de Cádiz, que está ultimando la información que va a desplegar en los módulos de trabajo. El objetivo es que, una vez concluido el desarrollo del sistema, se forme al personal del juzgado para, a continuación, implantarlo como experiencia piloto en Cádiz, y después, una vez que se evalúe cómo ha funcionado, extenderlo al resto del territorio andaluz.</parrafo>
+        <parrafo>Si los trabajos siguen a este ritmo, parece que antes de diciembre podríamos comenzar la experiencia piloto. Señorías, esta web tiene ventajas tecnológicas y operativas en el día a día del trabajo. Desde el punto de vista tecnológico, aprovechando las buenas prácticas de la Administración electrónica, que, como saben, es una de las áreas de actuación de esta Consejería, se va a introducir la firma digital para controlar el acceso a la información, y se va a proporcionar otro canal a la ciudadanía para que obtenga información a través de Internet. Desde el punto de vista operativo, se va a descargar al órgano judicial de las numerosas peticiones de información que día a día gestiona sobre los concursos, puesto que estos estarán accesibles a través de Internet. Y se van a eliminar copias de papel, con el ahorro que ello conlleva, puesto que mucha información ya estará en formato digital.</parrafo>
+        <parrafo>Señoría, usted me pregunta por esta web que, sin duda, va a suponer un avance, pero son muchos los pasos que se están dando en la Administración electrónica para dar servicio a la Administración de justicia. En mi primera intervención les hablaba del ex.net, ya en el juzgado de primera instancia e instrucción de Granada. Es una realidad que los funcionarios y secretarios judiciales, a través de la firma digital, presentan escritos y documentos, trasladan copias y realizan actos de comunicación por vía telemática. La tecnología es un instrumento muy eficaz para facilitar la relación de la Administración de justicia con los profesionales públicos y con los ciudadanos. Por ello vamos a seguir trabajando en incorporar las nuevas tecnologías para acercar definitivamente la Administración de justicia a la ciudadanía.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora Consejera.</parrafo>
+        <parrafo>Señora diputada Tudela Cánovas, le restan todavía tres minutos para su segunda intervención.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora TUDELA CÁNOVAS</interviniente>
+      <discurso>
+        <parrafo>—Gracias, Presidente.</parrafo>
+        <parrafo>No voy a agotar, por supuesto, el tiempo que me resta, pero sí quería hacer un reconocimiento, por parte de este grupo y de esta diputada —reconocimiento, que no peloteo—, hacia la labor que se está haciendo por parte de la Consejería de Justicia, porque es de justicia reconocer lo que se hace bien. Y, en este caso, la medida por la que pregunto, la medida por la que usted ha respondido, al final da herramientas para, a nivel interno, para el personal que trabaja en lo mercantil, y herramientas también para los ciudadanos, cuestión importante que saludamos desde este grupo, y cuestión que nos parece importante que saludaran el resto de grupos políticos.</parrafo>
+        <parrafo>Estaremos atentos al desarrollo de esta web y seguro que tendremos ocasión de preguntarle en alguna que otra ocasión.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora Tudela Cánovas.</parrafo>
+        <parrafo>Le resta un minuto a la señora Consejera, si desea...</parrafo>
+        <parrafo>Muchas gracias, señora Consejera, por su comparecencia en el día de hoy ante esta Comisión.</parrafo>
+        <parrafo>Y a continuación seguiremos con el orden del día, una vez que abandone la sala la señora Consejera.</parrafo>
+        <parrafo>[Receso.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

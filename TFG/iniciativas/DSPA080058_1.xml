@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>58</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 33,</numero_sesion>
+  <fecha>
+    <dia>7</dia>
+    <mes>octubre</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Proposiciones de reforma del Reglamento</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Proposiciones de reforma del Reglamento</tipo_iniciativa>
+    <numero_expediente>8-09/CSU-000002 8-09/CSU-000003</numero_expediente>
+    <extracto>8-09/CSU-000002 y 8-09/CSU-000003. Designación de vocales del Consejo Social de la Universidad de Huelva (pág. 7).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-09/CSU-000002</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-09/CSU-000003</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Aprobadas por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Comenzamos, pues, con el punto primero del orden del día, Designación de doña María José García Prat como Vocal del Consejo Social de la Universidad de Huelva, en sustitución de don Manuel Batista Márquez, a propuesta del Grupo Parlamentario Socialista.</parrafo>
+        <parrafo>¿Cuenta esta Presidenta con el asentimiento de la Cámara respecto a la designación de doña María José García Prat como Vocal en sustitución de don Manuel Batista Márquez? Muchas gracias, así se declara.</parrafo>
+        <parrafo>Igualmente, en este mismo punto del orden del día, designación de don Juan Antonio García García como Vocal del Consejo Social de la Universidad de Huelva, en sustitución de doña Antonia Cascales Guil, a propuesta del Grupo Parlamentario Socialista. ¿Puede contar la Presidencia con el asentimiento de la Cámara para esta nueva designación? Muchas gracias, señorías. Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Contaminación atmosférica, Degradación del medio ambiente, Desastre causado por el hombre, Lucha contra la contaminación, Provincia de Granada, Cambio climático</materias>
+    <numero_expediente>8-08/PE-002474</numero_expediente>
+    <extracto>8-08/PE-002474. Pregunta escrita relativa a la reducción de las emisiones de gases efecto invernadero en el municipio de Motril (pág. 109).</extracto>
+    <proponentes>el Ilmo. Sr. D. Carlos Rojas García, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Relativa a la reducción de las emisiones de gases efecto invernadero en el municipio de Motril.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Presidenta.</parrafo>
+        <parrafo>Señora Consejera, se da por contestada.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

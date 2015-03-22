@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>22</numero_diario>
+  <tipo_sesion>constitutiva</tipo_sesion>
+  <organo>Comisión del Estatuto de los Diputados</organo>
+  <presidente>Ilmo. Sr. D. José Luis Sanz Ruiz</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>6</dia>
+    <mes>mayo</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Sesión Constitutiva</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Sesión Constitutiva</tipo_iniciativa>
+    <extracto>Constitución de la Comisión y elección de los miembros de la Mesa (pág. 3).</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía. D. José Luis Sanz Ruiz, del G.P. Popular de Andalucía. D. Fernando Manuel Martínez Vidal, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—[Intervención no grabada.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor SANZ RUIZ</interviniente>
+      <discurso>
+        <parrafo>—Sí, aunque esté feo decirlo, señora Presidenta, me autopropongo como Presidente de esta Comisión.</parrafo>
+        <parrafo>[Risas.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MARTÍNEZ VIDAL</interviniente>
+      <discurso>
+        <parrafo>—Aunque esté igual de feo, me autopropongo como Vicepresidente.</parrafo>
+        <parrafo>[Risas.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>—¿Debo entender que hay acuerdo entre los grupos y entre los miembros de la Comisión?</parrafo>
+        <parrafo>Pues queda constituida la Comisión del Estatuto de los Diputados y ya se puede comenzar a trabajar.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

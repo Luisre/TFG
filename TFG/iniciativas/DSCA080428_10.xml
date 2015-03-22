@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>428</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Agricultura y Pesca</organo>
+  <presidente>Ilmo. Sr. D. José Cara González</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>17</dia>
+    <mes>noviembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Punto nuevo del orden del día</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Punto nuevo del orden del día</tipo_iniciativa>
+    <extracto>Solicitud de inclusión de un nuevo punto en el orden del día (pág. 42).</extracto>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. José Cara González, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor CARA GONZÁLEZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Naranjo.</parrafo>
+        <parrafo>Ahora tenemos que votar la inclusión en el orden del día de una cuarta proposición no de ley, pues tienen que estar a favor los portavoces de todos los grupos para la inclusión de esta iniciativa en el orden del día, relativa a mejora de la competitividad de la sal procedente de las salinas de Andalucía explotadas con métodos no industriales.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada, por unanimidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>51</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 29</numero_sesion>
+  <fecha>
+    <dia>24</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-09/DIP-000005</numero_expediente>
+    <extracto>8-09/DIP-000005. Juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de doña María Flor Almón Fernández (pág. 6).</extracto>
+    <intervienen>Dña. María Flor Almón Fernández, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-El punto segundo del orden del día es el juramento o promesa de acatar la Constitución y el Estatuto de Autonomía para Andalucía de la ilustrísima señora doña Flor Almón Fernández.</parrafo>
+        <parrafo>Ruego a la señora Almón Fernández se acerque a la tribuna, a fin de dar cumplimiento a lo establecido en el artículo 5.4 del vigente Reglamento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora ALMÓN FERNÁNDEZ</interviniente>
+      <discurso>
+        <parrafo>-[Intervención no registrada.]</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

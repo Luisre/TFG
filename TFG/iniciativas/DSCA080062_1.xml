@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>62</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Salud</organo>
+  <presidente>Ilma. Sra. Dña. Raquel Arenal Catena</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>23</dia>
+    <mes>septiembre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Comparecencias</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comparecencias</tipo_iniciativa>
+    <materias>Asistencia sanitaria, Desigualdad social, Política sanitaria, Riesgo sanitario, Salud pública</materias>
+    <numero_expediente>8-08/APC-000210</numero_expediente>
+    <extracto>8-08/APC-000210. Procedencia de la Comparecencia de un representante de la Asociación para la Defensa de la Sanidad Pública, a fin de que presente el llamado Primer Informe sobre Desigualdades y Salud en Andalucía (pág. 5).</extracto>
+    <proponentes>el G.P. Izquierda Unida Los Verdes-Convocatoria por Andalucía.</proponentes>
+    <votacion>Votación: Aprobada por asentimiento.</votacion>
+    <intervienen>Dña. Raquel Arenal Catena, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora ARENAL CATENA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, iniciamos la Comisión.</parrafo>
+        <parrafo>El primer punto del orden del día, sometimiento al asentimiento, por parte de sus señorías, del acuerdo sobre la procedencia de la siguiente solicitud de comparecencia en Comisión: solicitud de comparecencia de un representante de la Asociación para la Defensa de la Sanidad Pública ante la Comisión de Salud, a fin de que presente el llamado Primer Informe sobre Desigualdades y Salud en Andalucía.</parrafo>
+        <parrafo>¿Asienten sus señorías en aceptar? De acuerdo.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

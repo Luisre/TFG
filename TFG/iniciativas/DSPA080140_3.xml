@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 78</numero_sesion>
+  <fecha>
+    <dia>21</dia>
+    <mes>diciembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Senado</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Senado</tipo_iniciativa>
+    <numero_expediente>8-11/SENA-000002 8-11/SENA-000003 8-11/SENA-000004 8-11/SENA-000005</numero_expediente>
+    <extracto>8-11/SENA-000002, 8-11/SENA-000003, 8-11/SENA-000004 y 8-11/SENA-000005. Designación de Dña. María Dolores Ortega Moral, D. Luis García Garrido, Dña. Susana Díaz Pacheco y Dña. Rosa Lucía Polonio Contreras como senadores (pág. 4).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-11/SENA-000002</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-11/SENA-000003</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-11/SENA-000004</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-11/SENA-000005</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Quedan proclamados senadores.</votacion>
+    <intervienen>Dña. María Teresa Ruiz-Sillero Bernal, Secretaria Segunda del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Pasamos, pues, a la designación de senadores en representación de la Comunidad Autónoma de Andalucía.</parrafo>
+        <parrafo>Señorías, las mesas que hemos celebrado los días 14 y 21 de diciembre conocieron las renuncias presentadas por las señoras y señores doña Patricia Navarro Pérez, doña María José Rodríguez Ramírez, el señor José Antonio Viera Chacón y la señora Concepción Gutiérrez del Castillo como senador o senadora en representación de la Comunidad Autónoma de Andalucía. En las Mesas que antes he citado se han conocido las propuestas de los Grupos Parlamentarios Popular de Andalucía y Socialista de designación de nuevos senadores, en sustitución de los antes citados, a doña María Dolores Ortega Moral, doña Susana Díaz Pacheco, el señor Luis García Garrido y doña Rosa Lucía Polonio Contreras.</parrafo>
+        <parrafo>Señorías, tanto la Mesa como la Comisión de Gobierno Interior y Peticiones que acabamos de celebrar han visto la idoneidad de esta designación. Por tanto, ruego a sus señorías procedamos a la votación. Al tratarse de personas, votación secreta y por papeleta, que los servicios de la Cámara ya han repartido. Se trataría únicamente de colocar, de marcar con una cruz, o no, las propuestas de cada uno de ustedes.</parrafo>
+        <parrafo>Vamos a proceder al nombramiento de los diputados y diputadas. Ruego a la Secretaria Segunda de la Mesa dé lectura al inicio de este punto del orden del día.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora RUIZ-SILLERO BERNAL, SECRETARIA SEGUNDA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenos días.</parrafo>
+        <parrafo>Relación de diputadas y diputados para votación pública por llamamiento.</parrafo>
+        <parrafo>Doña María Flor Almón Fernández.</parrafo>
+        <parrafo>Doña Raquel Arenal Catena.</parrafo>
+        <parrafo>Don Francisco Javier Arenas Bocanegra.</parrafo>
+        <parrafo>Don Francisco Armijo Higueras.</parrafo>
+        <parrafo>Doña Dolores Blanca Mena.</parrafo>
+        <parrafo>Doña María Jesús Botella Serrano.</parrafo>
+        <parrafo>Don José Caballos Mojeda.</parrafo>
+        <parrafo>Doña Isabel Cabezas Regaño.</parrafo>
+        <parrafo>Doña María Dolores Calderón Pérez.</parrafo>
+        <parrafo>Doña María Dolores Cañero Pedroche.</parrafo>
+        <parrafo>Don José Cara González.</parrafo>
+        <parrafo>Don Manuel Carmona Jiménez.</parrafo>
+        <parrafo>Doña María Araceli Carrillo Pérez.</parrafo>
+        <parrafo>Doña María Cinta Castillo Jiménez.</parrafo>
+        <parrafo>Don José Antonio Castro Román.</parrafo>
+        <parrafo>Don Juan Antonio Cebrián Pastor.</parrafo>
+        <parrafo>Doña Ana María Corredera Quintana.</parrafo>
+        <parrafo>Doña Ana María Cortecero Montijano.</parrafo>
+        <parrafo>Doña María Cózar Andrades.</parrafo>
+        <parrafo>Doña María del Carmen Crespo Díaz.</parrafo>
+        <parrafo>Doña Regina Cuenca Cabeza.</parrafo>
+        <parrafo>Don Francisco Ignacio Delgado Bonilla.</parrafo>
+        <parrafo>Don Ramón Díaz Alcaraz.</parrafo>
+        <parrafo>Doña Susana Díaz Pacheco.</parrafo>
+        <parrafo>Doña María Teresa Domínguez Medina.</parrafo>
+        <parrafo>Doña Rosalía Ángeles Espinosa López.</parrafo>
+        <parrafo>Doña Felicidad Fernández Fernández.</parrafo>
+        <parrafo>Don Ángel Javier Gallego Morales.</parrafo>
+        <parrafo>Don José García Giralte.</parrafo>
+        <parrafo>Don Manuel García Quero.</parrafo>
+        <parrafo>Don Antonio Manuel Garrido Moraga.</parrafo>
+        <parrafo>Doña Carolina González Vigo.</parrafo>
+        <parrafo>Doña Ángeles Isac García.</parrafo>
+        <parrafo>Don Mario Jesús Jiménez Díaz.</parrafo>
+        <parrafo>Don Antonio Javier Jiménez Rodríguez.</parrafo>
+        <parrafo>Doña María Teresa Jiménez Vílchez.</parrafo>
+        <parrafo>Doña María Dolores López Gabarro.</parrafo>
+        <parrafo>Don Bartolomé Madrid Olmo.</parrafo>
+        <parrafo>Doña Elia Rosa Maldonado Maldonado.</parrafo>
+        <parrafo>Don José Manuel Mariscal Cifuentes.</parrafo>
+        <parrafo>Doña Aránzazu Martín Moya.</parrafo>
+        <parrafo>Doña María Lourdes Martín Palanco.</parrafo>
+        <parrafo>Doña María Eva Martín Pérez.</parrafo>
+        <parrafo>Don Iván Martínez Iglesias.</parrafo>
+        <parrafo>Doña Alicia Martínez Martín.</parrafo>
+        <parrafo>Don Fernando Manuel Martínez Vidal.</parrafo>
+        <parrafo>Don Fidel Mesa Ciriza.</parrafo>
+        <parrafo>Doña Antonia Jesús Moro Cárdeno.</parrafo>
+        <parrafo>Doña Silvia Muñoz Moreno.</parrafo>
+        <parrafo>Don José Muñoz Sánchez.</parrafo>
+        <parrafo>Doña María Ángeles Muñoz Uriol.</parrafo>
+        <parrafo>Doña María del Pilar Navarro Rodríguez.</parrafo>
+        <parrafo>Don José Antonio Nieto Ballesteros.</parrafo>
+        <parrafo>Don Daniel Nieto Vázquez.</parrafo>
+        <parrafo>Don Antonio Núñez Roldán.</parrafo>
+        <parrafo>Doña Rafaela Obrero Ariza.</parrafo>
+        <parrafo>[Rumores.]</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Señorías, por favor, les ruego silencio. Señorías, por favor, silencio.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora RUIZ-SILLERO BERNAL, SECRETARIA SEGUNDA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Doña María Esperanza Oña Sevilla.</parrafo>
+        <parrafo>Doña Amelia Palacios Pérez.</parrafo>
+        <parrafo>Doña María del Carmen Pedemonte Quintana.</parrafo>
+        <parrafo>Doña Verónica Pérez Fernández.</parrafo>
+        <parrafo>Don Santiago Pérez López.</parrafo>
+        <parrafo>Don Luis Pizarro Medina.</parrafo>
+        <parrafo>Don Juan Pizarro Navarrete.</parrafo>
+        <parrafo>Doña María Eulalia Quevedo Ariza.</parrafo>
+        <parrafo>Don Jorge Luis Ramos Aznar.</parrafo>
+        <parrafo>Don Jaime Raynaud Soto.</parrafo>
+        <parrafo>Doña María del Carmen Reyes Ruiz.</parrafo>
+        <parrafo>Doña Ana María Rico Terrón.</parrafo>
+        <parrafo>Doña Rosa Isabel Ríos Martínez.</parrafo>
+        <parrafo>Don Samuel Jesús Rodríguez Acuña.</parrafo>
+        <parrafo>Don José Luis Rodríguez Domínguez.</parrafo>
+        <parrafo>Don Pedro Rodríguez González.</parrafo>
+        <parrafo>Don Carlos Rojas García.</parrafo>
+        <parrafo>Don Mariano Ruiz Cuadra.</parrafo>
+        <parrafo>Don Miguel Ángel Ruiz Ortiz.</parrafo>
+        <parrafo>Doña Trinidad Rus Molina.</parrafo>
+        <parrafo>Doña María Concepción Sacramento Villegas.</parrafo>
+        <parrafo>Don Juan Manuel Sánchez Gordillo.</parrafo>
+        <parrafo>Don Antonio Sanz Cabello.</parrafo>
+        <parrafo>Don Juan Antonio Segura Vizcaíno.</parrafo>
+        <parrafo>Don Martín Soler Márquez.</parrafo>
+        <parrafo>Doña María Estrella Tomé Rico.</parrafo>
+        <parrafo>Don Antonio Torres López.</parrafo>
+        <parrafo>Doña Rosario Torres Ruiz.</parrafo>
+        <parrafo>Doña Ana María Tudela Cánovas.</parrafo>
+        <parrafo>Don Ismael Vaca Carrillo.</parrafo>
+        <parrafo>Don Diego Valderas Sosa.</parrafo>
+        <parrafo>Don Rafael Vicente Valero Rodríguez.</parrafo>
+        <parrafo>Don Francisco Vallejo Serrano.</parrafo>
+        <parrafo>Don Pedro Vaquero del Pozo.</parrafo>
+        <parrafo>Don Miguel Ángel Vázquez Bermúdez.</parrafo>
+        <parrafo>Y don Juan Ignacio Zoido Álvarez.</parrafo>
+        <parrafo>Consejo de Gobierno:</parrafo>
+        <parrafo>Don José Antonio Griñán Martínez.</parrafo>
+        <parrafo>Doña María del Mar Moreno Ruiz.</parrafo>
+        <parrafo>Don Francisco José Álvarez de la Chica.</parrafo>
+        <parrafo>Doña María Jesús Montero Cuadrado.</parrafo>
+        <parrafo>Doña Clara Eugenia Aguilera García.</parrafo>
+        <parrafo>Don Luciano Alonso Alonso.</parrafo>
+        <parrafo>Doña Micaela Navarro Garzón.</parrafo>
+        <parrafo>Don Paulino Plata Cánovas.</parrafo>
+        <parrafo>Y don José Juan Díaz Trillo.</parrafo>
+        <parrafo>Mesa del Parlamento:</parrafo>
+        <parrafo>Don José Luis Aguilar Gallart.</parrafo>
+        <parrafo>Doña María Luisa Bustinduy Barrero.</parrafo>
+        <parrafo>Doña María Teresa Ruiz-Sillero Bernal.</parrafo>
+        <parrafo>Don José Luis Blanco Romero.</parrafo>
+        <parrafo>Don Ignacio García Rodríguez.</parrafo>
+        <parrafo>Doña Patricia del Pozo Fernández.</parrafo>
+        <parrafo>Don Manuel Gracia Navarro.</parrafo>
+        <parrafo>Y doña Fuensanta Coves Botella.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Bien, señorías, el resultado de la votación es el siguiente: votos emitidos, 93. La señora Díaz Pacheco, Susana, ha obtenido 88 votos; el señor García Garrido, 91 votos; la señora Polonio Contreras, 92 votos -Rosa Lucía, 92 votos-; y la señora Ortega Moral, María Dolores, 88 votos.</parrafo>
+        <parrafo>Por lo tanto, quedan proclamados senadores por la Comunidad Autónoma de Andalucía la señora Susana Díaz Pacheco, el señor Luis García Garrido, la señora Rosa Lucía Polonio Contreras y la señora María Dolores Ortega Moral.</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

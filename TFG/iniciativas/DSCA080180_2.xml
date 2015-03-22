@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>180</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>2</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>8-09/SAA-000001</numero_expediente>
+    <extracto>8-09/SAA-000001. Solicitud de auditoría del Ayuntamiento de Gaucín, Málaga, del periodo comprendido entre junio de 2007 y septiembre de 2008 (pág. 4).</extracto>
+    <proponentes>el Ayuntamiento de Gaucín, Málaga.</proponentes>
+    <votacion>Votación: aprobadas por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—El punto segundo es la solicitud de auditoría de ayuntamientos. Solicitud que, también por asentimiento, entendemos que procede su aprobación.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Monte del estado, Ordenación forestal, Provincia de Almería</materias>
+    <numero_expediente>8-08/PE-001897</numero_expediente>
+    <extracto>8-08/PE-001897. Pregunta escrita relativa a las actuaciones en los recursos forestales de los montes públicos de la provincia de Almería durante la anterior legislatura (pág. 99).</extracto>
+    <proponentes>la Ilma. Sra. Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Relativa a actuaciones de los recursos forestales de los montes públicos en la provincia de Almería durante la anterior legislatura.</parrafo>
+        <parrafo>Señora González Vigo.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Presidenta.</parrafo>
+        <parrafo>No sé si la Consejera necesita... No, no, lo digo... Vaya, por si quiere contestar algo.</parrafo>
+        <parrafo>La damos, igualmente, por contestada.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

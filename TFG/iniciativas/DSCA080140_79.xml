@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Plantación de árboles, Provincia de Málaga</materias>
+    <numero_expediente>8-08/PE-001570</numero_expediente>
+    <extracto>8-08/PE-001570. Pregunta escrita relativa a la superficie forestal repoblada en la provincia de Málaga (pág. 85).</extracto>
+    <proponentes>el Ilmo. Sr. D. Miguel Ángel Ruiz Ortiz, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Regina Cuenca Cabeza, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Relativa a la superficie forestal repoblada en la provincia de Málaga. Señor Ruiz.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

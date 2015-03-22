@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Plantación de árboles, Política forestal, Provincia de Almería</materias>
+    <numero_expediente>8-08/PE-001476</numero_expediente>
+    <extracto>8-08/PE-001476. Pregunta escrita relativa al Plan de Reforestación para Almería (pág. 84).</extracto>
+    <proponentes>la Ilma. Sra. Dña. María del Carmen Crespo Díaz, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Regina Cuenca Cabeza, Presidenta de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Siguiente pregunta, relativa al plan de reforestación para Almería, que formula la señora Crespo Díaz.</parrafo>
+        <parrafo>No está en la sala.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

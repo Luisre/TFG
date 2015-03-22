@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>335</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Obras Públicas y Vivienda</organo>
+  <presidente>Ilmo. Sr. D. Martín Soler Márquez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>14</dia>
+    <mes>abril</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones, Grupos de trabajo y Ponencias de estudio</tipo_iniciativa>
+    <numero_expediente>8-10/EMMC-000003</numero_expediente>
+    <extracto>8-10/EMMC-000003. Elección, en su caso, del Presidente o Presidenta de la Mesa (pág. 3).</extracto>
+    <votacion>Votación: aprobada por unanimidad.</votacion>
+    <intervienen>D. Juan Antonio Cebrián Pastor, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor PIZARRO NAVARRETE, VICEPRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Bien. Buenos días.</parrafo>
+        <parrafo>Vamos a dar comienzo al orden del día de la Comisión de Obras Públicas, Transportes y Vivienda.</parrafo>
+        <parrafo>El primer punto del orden del día es el nombramiento del Presidente..., propuesta de nombramiento del Presidente. ¿Algún grupo presenta algún candidato? ¿Partido Socialista?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor CEBRIÁN PASTOR</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Presidente.</parrafo>
+        <parrafo>El Grupo Parlamentario Socialista propone como Presidente de la Comisión de Obras Públicas y Vivienda al diputado Martín Soler Márquez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor PIZARRO NAVARRETE, VICEPRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias.</parrafo>
+        <parrafo>¿Nadie más presenta? Por lo tanto, vamos a votar la única propuesta, el señor Martín Soler.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>Enhorabuena al señor Martín Soler. Pasa usted a ser el Presidente de esta Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

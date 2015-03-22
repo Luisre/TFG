@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>4</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión número 3</numero_sesion>
+  <fecha>
+    <dia>29</dia>
+    <mes>abril</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-08/DIP-000111</numero_expediente>
+    <extracto>8-08/DIP-000111. Juramento o promesa del Diputado don Juan Antonio Cebrián Pastor (pág. 5).</extracto>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía. D. Juan Antonio Cebrián Pastor, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenas tardes, señorías. Se abre la sesión.</parrafo>
+        <parrafo>Ruego a las señoras y señores diputados que vayan ocupando sus escaños.</parrafo>
+        <parrafo>Por favor, señorías, les ruego que vayan ocupando sus escaños.</parrafo>
+        <parrafo>Bien, antes de tratar los distintos puntos del orden del día, y como consecuencia de la renuncia presentada por doña Fátima Ramírez Cerrato a su condición de diputada del Parlamento de Andalucía, procede que el diputado que la ha sustituido, don Juan Antonio Cebrián Pastor, preste la promesa o el juramento de acatar la Constitución y el Estatuto de Autonomía para Andalucía.</parrafo>
+        <parrafo>Ruego al señor Cebrián Pastor que se acerque a dar cumplimiento de lo establecido en el artículo 5.1.4.º del vigente Reglamento.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor CEBRIÁN PASTOR</interviniente>
+      <discurso>
+        <parrafo>-[Intervención no registrada.]</parrafo>
+        <parrafo>[Aplausos.]</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

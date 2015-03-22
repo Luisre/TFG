@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>180</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Economía y Hacienda</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>2</dia>
+    <mes>junio</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Cámara de Cuentas de Andalucía</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Cámara de Cuentas de Andalucía</tipo_iniciativa>
+    <numero_expediente>7-06/OICC-000020 7-07/OICC-000005 7-07/OICC-000020 8-08/OICC-000008 8-09/OICC-000006</numero_expediente>
+    <extracto>7-06/OICC-000020, 7-07/OICC-000005, 7-07/OICC-000020, 8-08/OICC-000008 y 8-09/OICC-000006. Debate agrupado y votación de las propuestas de resolución presentadas a diversos informes especiales de la Cámara de Cuentas (pág. 4).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>7-06/OICC-000020</numero_expediente>
+        <extracto>*	7-06/OICC-000020. Informe especial de la Cámara de Cuentas de la fiscalización de la rendición de cuentas de diputaciones provinciales y ayuntamientos de municipios con población superior a los 50.000 habitantes, correspondiente al ejercicio 2004.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/OICC-000005</numero_expediente>
+        <extracto>*	7-07/OICC-000005. Informe especial de la Cámara de Cuentas sobre el sector público local andaluz, correspondiente al ejercicio 2004.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>7-07/OICC-000020</numero_expediente>
+        <extracto>*	7-07/OICC-000020. Informe especial de la Cámara de Cuentas sobre la rendición de cuentas, relativas a 2005, de las diputaciones provinciales y los ayuntamientos de municipios con población superior a los 50.000 habitantes.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-08/OICC-000008</numero_expediente>
+        <extracto>*	8-08/OICC-000008. Informe especial de la Cámara de Cuentas sobre el sector público local andaluz, ejercicio 2005.</extracto>
+      </componente>
+      <componente>
+        <numero_expediente>8-09/OICC-000006</numero_expediente>
+        <extracto>*	8-09/OICC-000006. Informe especial de la Cámara de Cuentas de seguimiento de ayuntamientos entre 10.000 y 50.000 habitantes que no rinden cuentas en los ejercicios del 2002 hasta el 2004.</extracto>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobadas por unanimidad.</votacion>
+    <intervienen>D. Salvador Fuentes Lopera, del G.P. Popular de Andalucía. D. Pedro Vaquero del Pozo, del G.P. Izquierda Unida Los Verdes-Convocatoria por Andalucía. Dña. Verónica Pérez Fernández, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Empezamos el debate de esta comisión con el punto primero sobre el debate y votación de las propuestas de resolución presentadas por los distintos grupos en relación con los informes especiales de la Cámara de Cuentas.</parrafo>
+        <parrafo>Las intervenciones se deben producir según el artículo 186.3, en relación con el 185.4, por el orden de presentación de las mismas, y para ello le corresponde la palabra al portavoz del Grupo Parlamentario Popular, al señor Fuentes.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor FUENTES LOPERA</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>El Partido Popular, mi grupo, da por defendidas las propuestas.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—En segundo lugar, le corresponde a Izquierda Unida. El señor Vaquero tiene la palabra.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor VAQUERO DEL POZO</interviniente>
+      <discurso>
+        <parrafo>——Gracias, señor Presidente, igualmente damos por defendidas todas las propuestas de resolución.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Vaquero.</parrafo>
+        <parrafo>En nombre del Grupo Socialista, señora Pérez.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora PÉREZ FERNÁNDEZ</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Del mismo modo, damos por defendidas nuestras propuestas de resolución.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Pues, muchas gracias.</parrafo>
+        <parrafo>También, por acuerdo de los portavoces, se ha decidido que se sometan a votación dichas resoluciones de forma conjunta. Todas ellas en relación con los informes, los cinco informes de la Cámara de Cuentas.</parrafo>
+        <parrafo>Si estamos de acuerdo en que se produzca por asentimiento esa votación, lo damos por resuelto de esa forma el trámite que corresponde a esta comisión y, al mismo tiempo, facultamos al señor letrado para que lleve a cabo la refundición técnica del mismo para posteriormente dar traslado al Pleno y concluir con ese trámite. ¿Estamos de acuerdo todos los grupos?</parrafo>
+        <parrafo>Pues, de esa forma concluimos el primer punto del orden del día.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

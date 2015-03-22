@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>20</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 11</numero_sesion>
+  <fecha>
+    <dia>22</dia>
+    <mes>octubre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Diputados</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputados</tipo_iniciativa>
+    <numero_expediente>8-08/CGAC-000018 Consejero/a</numero_expediente>
+    <extracto>8-08/CGAC-000018. Designación de Consejero/a de las Cajas de Ahorros (pág. 7).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-08/CGAC-000018</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>Consejero/a</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Buenas tardes, señoras y señores diputados. Ruego a sus señorías que vayan ocupando sus escaños.</parrafo>
+        <parrafo>Señorías, vamos a comenzar la sesión plenaria durante estos dos días, veintidós y veintitrés de octubre.</parrafo>
+        <parrafo>Señorías, la Mesa del Parlamento de Andalucía, en la sesión celebrada esta misma mañana, ha conocido la renuncia presentada por doña Esperanza O'Neill Orueta a su condición de Consejera de la Asamblea General de Unicaja, así como la propuesta presentada por el Grupo Parlamentario Popular de Andalucía de designación de doña Marta Hasnaá Menduiña para sustituirla en la citada Asamblea.</parrafo>
+        <parrafo>Como consecuencia de lo anterior, les planteo la inclusión de un nuevo punto del orden del día, que trataría sobre la designación de doña Marta Hasnaá Menduiña como Consejera de la Asamblea General de Unicaja. Por eso, les pregunto: ¿puede contar la Presidencia de la Cámara con la introducción de un nuevo punto del orden del día? Así se declara.</parrafo>
+        <parrafo>De igual modo, ¿puede entender la Presidencia que cuenta con el asentimiento de la Cámara respecto a la citada designación? Bien, muchas gracias, y así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

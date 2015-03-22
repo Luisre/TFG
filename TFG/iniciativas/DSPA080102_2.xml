@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>102</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 57</numero_sesion>
+  <fecha>
+    <dia>24</dia>
+    <mes>noviembre</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>8-10/OAPP-000012</numero_expediente>
+    <extracto>8-10/OAPP-000012. Elección de Dña. Pilar Navarro Rodríguez y D. Felipe Jesús Sicilia Alférez como miembros titular y suplente de la Diputación Permanente (pág. 7).</extracto>
+    <votacion>Votación: Aprobadas por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Punto segundo del orden del día: Elección de la ilustrísima señora doña Pilar Navarro Rodríguez como miembro titular de la Diputación Permanente y del ilustrísimo señor don Felipe Sicilia Alférez como miembro suplente.</parrafo>
+        <parrafo>¿Puede entender esta Presidenta que cuenta con el asentimiento de la Cámara para dicha elección?</parrafo>
+        <parrafo>Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

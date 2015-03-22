@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>54</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Empleo</organo>
+  <presidente>Ilma. Sra. Dña. María Eulalia Quevedo Ariza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>4</dia>
+    <mes>septiembre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Comparecencias</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comparecencias</tipo_iniciativa>
+    <numero_expediente>8-08/EMMC-000003</numero_expediente>
+    <extracto>8-08/EMMC-000003. Elección de Presidenta de la Comisión de Empleo (pág. 5).</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>D. Ángel Javier Gallego Morales, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>El señor MADRID OLMO, VICEPRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días.</parrafo>
+        <parrafo>Iniciamos la Comisión, señoras y señores diputados, con un escrito que se ha recibido por parte del Grupo Socialista en el que cesa, como Presidente de la Comisión, el anterior Presidente y, por lo tanto, queda vacante la Presidencia.</parrafo>
+        <parrafo>Procede, por tanto, que los grupos políticos presenten candidaturas para la Presidencia de la Comisión de Empleo.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor GALLEGO MORALES</interviniente>
+      <discurso>
+        <parrafo>—El Grupo Parlamentario Socialista presenta la candidatura de doña María Eulalia Quevedo Ariza para presidir esta Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor MADRID OLMO, VICEPRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—De acuerdo. ¿No existe ninguna otra candidatura?</parrafo>
+        <parrafo>Por tanto, queda nombrada, Presidenta de la Comisión, doña Eulalia Quevedo, por asentimiento.</parrafo>
+        <parrafo>Le ruego, por tanto, que se incorpore al puesto de Presidenta de la Comisión.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

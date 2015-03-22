@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>78</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 44</numero_sesion>
+  <fecha>
+    <dia>7</dia>
+    <mes>abril</mes>
+    <anio>2010</anio>
+  </fecha>
+  <tipo_epigrafe>Composición y Organización de la Cámara</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Composición y Organización de la Cámara</tipo_iniciativa>
+    <numero_expediente>8-10/PRR-000006</numero_expediente>
+    <extracto>8-10/PRR-000006. Proposición de reforma del Reglamento del Parlamento de Andalucía (pág. 8).</extracto>
+    <votacion>Votación: Aprobada por unanimidad.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Acuerdo, en su caso, de tramitación directa y en lectura única de la proposición de reforma del Reglamento del Parlamento de Andalucía, incluida su toma en consideración.</parrafo>
+        <parrafo>¿Puede entender la Presidencia que cuenta con el asentimiento de la Cámara para su tramitación?</parrafo>
+        <parrafo>Muchas gracias. Así se declara.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Debate y votación del conjunto de la proposición de reforma.</parrafo>
+        <parrafo>Señorías, todos ustedes conocen el texto de la proposición: figura en el escaño de cada uno de ustedes. ¿Algún grupo parlamentario quiere tomar la palabra?</parrafo>
+        <parrafo>Bien, pues, entonces, en su caso, vamos a proceder a la votación.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>Ahora.</parrafo>
+        <parrafo>Señorías, el resultado de la votación es el siguiente: ha sido aprobada, al haber obtenido 105 votos a favor, ningún voto en contra, ninguna abstención.</parrafo>
+        <parrafo>En consecuencia, al haberse alcanzado la mayoría absoluta requerida por la disposición adicional primera del vigente Reglamento, queda aprobada la propuesta, la reforma propuesta, que modifica los artículos 1 y 6 del artículo 46..., perdón, los apartados 1 y 6 del artículo 46. Por lo tanto, quedan reestructuradas las comisiones permanentes legislativas.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

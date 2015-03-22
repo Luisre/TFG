@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Incendio, Lucha contra incendios, Provincia de Cádiz</materias>
+    <numero_expediente>8-08/PE-000742</numero_expediente>
+    <extracto>8-08/PE-000742. Pregunta escrita relativa a trabajos preventivos en la provincia de Cádiz en la campaña 2007-2008 (pág. 60).</extracto>
+    <proponentes>los Ilmos. Sres. Dña. Carolina González Vigo y D. Antonio Sanz Cabello, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Gracias.</parrafo>
+        <parrafo>Siguiente, relativa a trabajos preventivos en la provincia de Cádiz en la campaña 2007-2008, que formula la señora González Vigo.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señora Presidenta.</parrafo>
+        <parrafo>Señorías, esta pregunta viene a esta Comisión porque nos ampara el Reglamento, y, como ha sido contestada, ya la damos por contestada como tal.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

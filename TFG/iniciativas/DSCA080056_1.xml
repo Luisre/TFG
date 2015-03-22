@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>56</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Innovación, Ciencia y Empresa</organo>
+  <presidente>Ilmo. Sr. D. José García Giralte.</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>4</dia>
+    <mes>septiembre</mes>
+    <anio>2008</anio>
+  </fecha>
+  <tipo_epigrafe>Comisiones</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Comisiones</tipo_iniciativa>
+    <numero_expediente>8-08/EMMC-000002</numero_expediente>
+    <extracto>8-08/EMMC-000002. Elección de Presidente o Presidenta de la Comisión de Innovación, Ciencia y Empresa (pág. 5).</extracto>
+    <intervienen>Dña. María Concepción Sacramento Villegas, Vicepresidenta de la Comisión. D. Antonio Núñez Roldán, del G.P. Socialista.</intervienen>
+    <intervencion>
+      <interviniente>La señora SACRAMENTO VILLEGAS, VICEPRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Buenos días a todos y a todas. Bienhallados todos después de estas vacaciones.</parrafo>
+        <parrafo>Vamos a proceder al inicio de esta Comisión de Innovación, Ciencia y Empresa, procediendo al primer punto del orden del día, que es la elección del Presidente o de la Presidenta.</parrafo>
+        <parrafo>¿Propuestas?</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor NÚÑEZ ROLDÁN</interviniente>
+      <discurso>
+        <parrafo>—Sí. Muchas gracias, señora Presidenta.</parrafo>
+        <parrafo>El Grupo Socialista propone como Presidente de la Comisión de Innovación, Ciencia y Empresa a don José García Giralte.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora SACRAMENTO VILLEGAS, VICEPRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—¿Alguna propuesta más por parte de algún otro Grupo?</parrafo>
+        <parrafo>Se entiende, entonces, aprobada por unanimidad. Muy bien, pues queda nombrado Presidente José García Giralte.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

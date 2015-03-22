@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Medio Ambiente</organo>
+  <presidente>Ilma. Sra. Dña. Regina Cuenca Cabeza</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>18</dia>
+    <mes>febrero</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Agricultura biológica, Flora</materias>
+    <numero_expediente>8-08/PE-001836</numero_expediente>
+    <extracto>8-08/PE-001836. Pregunta escrita relativa al presupuesto del proyecto de trufa negra en el municipio de Santiago-Pontones, de la provincia de Jaén (pág. 98).</extracto>
+    <proponentes>el Ilmo. Sr. D. Francisco Armijo Higueras, del G.P. Popular de Andalucía.</proponentes>
+    <intervienen>Dña. Carolina González Vigo, del G.P. Popular de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora CUENCA CABEZA, PRESIDENTA DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Relativa a presupuesto del proyecto trufa negra en el municipio de Santiago-Pontones, en la provincia de Jaén.</parrafo>
+        <parrafo>Señor Armijo.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora GONZÁLEZ VIGO</interviniente>
+      <discurso>
+        <parrafo>—Santiago-Pontones. Correcto.</parrafo>
+        <parrafo>Gracias, señora Presidenta.</parrafo>
+        <parrafo>Sí, señora Consejera, la damos por contestada.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

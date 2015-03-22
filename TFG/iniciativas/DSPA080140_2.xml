@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>140</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>pleno</organo>
+  <presidente>Excma. Sra. Dña. Fuensanta Coves Botella</presidente>
+  <numero_sesion>Sesión plenaria número 78</numero_sesion>
+  <fecha>
+    <dia>21</dia>
+    <mes>diciembre</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Diputación Permanente</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Diputación Permanente</tipo_iniciativa>
+    <numero_expediente>8-11/OAPP-000012 8-11/OAPP-000015</numero_expediente>
+    <extracto>8-11/OAPP-000012 y 8-11/OAPP-000015. Elección de miembros de la Diputación Permanente en sustitución de D. Felipe Jesús Sicilia Alférez y Dña. Susana Díaz Pacheco (pág. 4).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-11/OAPP-000012</numero_expediente>
+      </componente>
+      <componente>
+        <numero_expediente>8-11/OAPP-000015</numero_expediente>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: Aprobados por asentimiento.</votacion>
+    <intervienen>Dña. Fuensanta Coves Botella, Presidenta del Parlamento de Andalucía.</intervienen>
+    <intervencion>
+      <interviniente>La señora COVES BOTELLA, PRESIDENTA DEL PARLAMENTO DE ANDALUCÍA</interviniente>
+      <discurso>
+        <parrafo>-Comenzamos, pues, con la elección como miembro titular de la Diputación Permanente del señor Miguel Ángel Vázquez Bermúdez, en sustitución de la señora Susana Díaz Pacheco, y elección como miembro suplente de la Diputación Permanente de doña Araceli Carrillo Pérez, en sustitución del señor Felipe Jesús Sicilia Álvarez.</parrafo>
+        <parrafo>Señorías, ¿cuenta la Presidencia con el asentimiento de la Cámara para este nombramiento? Así se declara, señorías.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

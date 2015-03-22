@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>251</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Justicia y Administración Pública</organo>
+  <presidente>Ilmo. Sr. D. Juan Ignacio Zoido Álvarez</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>29</dia>
+    <mes>octubre</mes>
+    <anio>2009</anio>
+  </fecha>
+  <tipo_epigrafe>Preguntas orales</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Preguntas orales</tipo_iniciativa>
+    <materias>Personal judicial, Administración judicial, Informática jurídica, Provincia de Granada, Administración electrónica, Firma electrónica</materias>
+    <numero_expediente>8-09/POC-000847</numero_expediente>
+    <extracto>8-09/POC-000847. Pregunta oral relativa a la firma digital en Granada (pág. 27).</extracto>
+    <proponentes>las Ilmas. Sras. Dña. María del Pilar Navarro Rodríguez y Dña. María Flor Almón Fernández, del G.P. Socialista.</proponentes>
+    <intervienen>Dña. María Flor Almón Fernández, del G.P. Socialista. Dña. Begoña Álvarez Civantos, Consejera de Justicia y Administración Pública.</intervienen>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Para formular la siguiente pregunta, tiene la palabra la diputada señora Almón Fernández.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora ALMÓN FERNÁNDEZ</interviniente>
+      <discurso>
+        <parrafo>—Gracias, señor Presidente.</parrafo>
+        <parrafo>Señora Consejera, recientemente hemos conocido que la Consejería de Justicia y Administración Pública va a poner en marcha un sistema informático llamado Lexnet. Al parecer, este sistema va a facilitar la presentación de escritos y documentos a los secretarios judiciales y funcionarios en este ámbito procesal; pero también va a facilitar la relación de la Administración con el entorno habitual, de procuradores, abogados e instituciones.</parrafo>
+        <parrafo>Nos parecía, por tanto, imprescindible, señora Consejera, preguntarle por una medida que va a ocasionar mejoras significativas, y por eso queríamos conocer con detalle en qué consisten estas medidas y cuáles van a ser las ventajas de su aplicación.</parrafo>
+        <parrafo>Gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señora diputada.</parrafo>
+        <parrafo>Tiene la palabra la señora Consejera.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora ÁLVAREZ CIVANTOS, CONSEJERA DE JUSTICIA Y ADMINISTRACIÓN PÚBLICA</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, Presidente.</parrafo>
+        <parrafo>Señoría, muchos son los pasos que la Junta de Andalucía ha dado para que la modernización de la Justicia deje de ser una vieja promesa y pase a convertirse en una realidad para los ciudadanos.</parrafo>
+        <parrafo>Estamos firmemente convencidos de que la modernización de los procedimientos y trámites de la administración de la Justicia es el camino para conseguir un servicio público ágil, cercano y accesible al ciudadano y acorde a las necesidades del siglo XXI. Además, en esta tarea contamos con el compromiso y la buena voluntad de todos los operadores jurídicos implicados en el buen funcionamiento de la Justicia. Prueba de ello es el proyecto piloto de notificaciones telemáticas a través del sistema Lexnet, que hemos implantado de forma pionera en Granada y que gradualmente se extenderá al resto de órganos judiciales andaluces.</parrafo>
+        <parrafo>El sistema telemático Lexnet se concibe como una plataforma de intercambio seguro de información entre una gran diversidad de agentes y los órganos judiciales, permitiendo la presentación de escritos y documentos, el traslado de copias y la realización de actos de comunicación procesal por vía telemática, lo que garantiza todos los requisitos exigidos en las leyes procesales.</parrafo>
+        <parrafo>El primer paso ha sido implantar el sistema de notificaciones a través de este medio, y el primer punto en el que se ha puesto en marcha de manera piloto ha sido en Granada, dada su condición de capital judicial de Andalucía. De este modo, es el juzgado de primera instancia número 11 de Granada el primer órgano de nuestra Comunidad en el que se ha implantado este novedoso programa, que ya se aplica con éxito en alguna comunidad, como Cataluña o Galicia. A partir de ahora, el aviso de actos judiciales, tales como sentencias, autos, resoluciones o citaciones a los procuradores de Granada, podrán realizarse a través de Internet gracias al uso de la firma electrónica.</parrafo>
+        <parrafo>Para su puesta en marcha, la Consejería de Justicia llevó a cabo una campaña de expedición de la tarjeta de firma digital a los secretarios, procuradores y funcionarios; herramienta indispensable para la puesta en marcha de este novedoso sistema que permite la presentación de escritos y documentos, el traslado de copias y actos de comunicación por medios telemáticos.</parrafo>
+        <parrafo>En estas jornadas, celebradas en la última semana de septiembre en Granada, se llevó a cabo un total de 416 certificaciones, de las cuales 75 corresponden a secretarios y 300 a funcionarios. El avance de esta herramienta informática supone, para el día a día de los juzgados, y en concreto para la figura del procurador, un cambio sustantivo, como lo demuestra el hecho de que en torno al 90% de las notificaciones realizadas en el ámbito de la jurisdicción civil y el 50% de las realizadas en lo contencioso se hacen a través de la figura del procurador.</parrafo>
+        <parrafo>La Consejería de Justicia y Administración Pública apuesta por el sistema de notificaciones Lexnet por dos importantes razones. Primero, porque ha demostrado su validez en las comunidades autónomas en que se ha implantado —como ejemplo, les informo de que el pasado mes de julio son 674 los órganos judiciales de España que tienen operativa esta herramienta—, y, en segundo lugar, porque va a permitir homogeneizar las herramientas usadas en todo el territorio nacional.</parrafo>
+        <parrafo>Los principios de unidad, homogeneización e interoperabilidad son los que han guiado siempre el desarrollo tecnológico de la Administración andaluza. De este modo, la Consejería de Justicia avanza en la modernización del sistema judicial apostando por la reducción progresiva de papel, agilizando los trámites, con el consiguiente ahorro de tiempo que ello supone, y garantizando la validez y seguridad de todos los trámites que se realizan a través de la web gracias al uso de la firma digital.</parrafo>
+        <parrafo>Muchas gracias.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>El señor ZOIDO ÁLVAREZ, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Tiene la palabra la señora diputada para consumir el segundo turno. Le recuerdo que en el primero solo ha empleado un minuto.</parrafo>
+      </discurso>
+    </intervencion>
+    <intervencion>
+      <interviniente>La señora ALMÓN FERNÁNDEZ</interviniente>
+      <discurso>
+        <parrafo>—Muchas gracias, señor Presidente.</parrafo>
+        <parrafo>Muy brevemente, porque me tengo que ir a otra Comisión. Agradecerle enormemente, señora Consejera, su explicación; agradecerle que haya sido Granada, por cualesquiera que sean las razones, como motrileña y granadina que soy, la pionera en la aplicación de este sistema, y animarla a seguir trabajando por descongestionar y agilizar los trámites en la Administración de justicia. Agradecerle en todo momento su trabajo, el esfuerzo del Gobierno por reforzar un servicio tan importante para la ciudadanía y pilar imprescindible y básico del Estado de Derecho.</parrafo>
+        <parrafo>Muchas gracias, señora Consejera.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+

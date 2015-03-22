@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<iniciativa_completa>
+  <legislatura>VIII</legislatura>
+  <numero_diario>497</numero_diario>
+  <tipo_sesion>ordinaria</tipo_sesion>
+  <organo>Comisión de Hacienda y Administración Pública</organo>
+  <presidente>Ilmo. Sr. D. José Antonio Nieto Ballesteros</presidente>
+  <numero_sesion />
+  <fecha>
+    <dia>17</dia>
+    <mes>mayo</mes>
+    <anio>2011</anio>
+  </fecha>
+  <tipo_epigrafe>Iniciativas fiscalizadoras</tipo_epigrafe>
+  <iniciativa>
+    <tipo_iniciativa>Iniciativas fiscalizadoras</tipo_iniciativa>
+    <numero_expediente>8-10/IFC-000007 8-10/IFC-000008</numero_expediente>
+    <extracto>8-10/IFC-000007. 8-10/IFC-000008 Iniciativas fiscalizadoras relativas a las subvenciones y ayudas en materia de Formación Profesional durante el periodo comprendido entre los ejercicios del 2005 al 2010, ambos inclusive (pág. 21).</extracto>
+    <debate_agrupado>
+      <componente>
+        <numero_expediente>8-10/IFC-000007</numero_expediente>
+        <extracto>8-10/IFC-000007. Iniciativa fiscalizadora relativa a las subvenciones y ayudas en materia de Formación Profesional para el Empleo,</extracto>
+        <proponentes>el G.P. Popular de Andalucía.</proponentes>
+      </componente>
+      <componente>
+        <numero_expediente>8-10/IFC-000008</numero_expediente>
+        <extracto>8-10/IFC-000008. Iniciativa fiscalizadora relativa a las subvenciones en materia de Formación Profesional Ocupacional durante el periodo comprendido entre los ejercicios del 2005 al 2010, ambos inclusive.</extracto>
+      </componente>
+    </debate_agrupado>
+    <votacion>Votación: aprobadas por unanimidad.</votacion>
+    <intervienen>D. José Antonio Nieto Ballesteros, Presidente de la Comisión.</intervienen>
+    <intervencion>
+      <interviniente>El señor NIETO BALLESTEROS, PRESIDENTE DE LA COMISIÓN</interviniente>
+      <discurso>
+        <parrafo>—Señorías, retomamos el debate en esta Comisión.</parrafo>
+        <parrafo>Lo hacemos con el acuerdo de todos los grupos para que procedamos directamente a la votación y, por tanto, suprimimos el debate en los dos puntos del apartado 3, que se refiere a la iniciativa fiscalizadora, tanto la propuesta por el Grupo Popular como la realizada por el Consejo de Gobierno de la Junta de Andalucía, y, por tanto, pasamos directamente a la votación de la misma.</parrafo>
+        <parrafo>Punto 3.1, propuesta del Grupo Popular.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+        <parrafo>Iniciativa fiscalizadora, a propuesta del Gobierno de la Junta de Andalucía. Por tanto, punto 3.2.</parrafo>
+        <parrafo>Se inicia la votación.</parrafo>
+        <parrafo>El resultado de la votación es el siguiente: ha sido aprobada por unanimidad.</parrafo>
+      </discurso>
+    </intervencion>
+  </iniciativa>
+</iniciativa_completa>
+
