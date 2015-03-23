@@ -93,6 +93,8 @@ public class indice_LCN {
         QueryParser consultaEnBruto = new QueryParser("contenido", analizador);
  
         Query consulta = consultaEnBruto.parse(CadenaLimpia);
+        
+        System.out.println("La consulta parseada es " + consulta);
  
         TopDocs resultado = Busca.search(consulta, 10);
  
@@ -167,7 +169,7 @@ public class indice_LCN {
         while (strTkn.hasMoreTokens()){
             contadorTerm++;
             String token = strTkn.nextToken();
-            if(!stopwords.contains(token)){
+            if(!stopwords.contains(token.toLowerCase())){
                 cadenaLimpia = cadenaLimpia + token + " ";   
             }
         }

@@ -79,6 +79,7 @@ public class miApplet extends javax.swing.JApplet {
         jLabel8 = new javax.swing.JLabel();
         jLabel9 = new javax.swing.JLabel();
         jLabel10 = new javax.swing.JLabel();
+        Buscar_button = new javax.swing.JButton();
 
         Abrir_button.setText("Abrir");
         Abrir_button.addActionListener(new java.awt.event.ActionListener() {
@@ -111,6 +112,13 @@ public class miApplet extends javax.swing.JApplet {
 
         jLabel10.setText("jLabel10");
 
+        Buscar_button.setText("Buscar");
+        Buscar_button.addActionListener(new java.awt.event.ActionListener() {
+            public void actionPerformed(java.awt.event.ActionEvent evt) {
+                Buscar_buttonActionPerformed(evt);
+            }
+        });
+
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
         layout.setHorizontalGroup(
@@ -139,7 +147,8 @@ public class miApplet extends javax.swing.JApplet {
                             .addComponent(jLabel3)
                             .addComponent(jLabel4)
                             .addComponent(jLabel5)
-                            .addComponent(jLabel6))
+                            .addComponent(jLabel6)
+                            .addComponent(Buscar_button))
                         .addGap(0, 0, Short.MAX_VALUE))))
         );
         layout.setVerticalGroup(
@@ -147,7 +156,9 @@ public class miApplet extends javax.swing.JApplet {
             .addGroup(layout.createSequentialGroup()
                 .addContainerGap()
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.TRAILING)
-                    .addComponent(Abrir_textField, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                    .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
+                        .addComponent(Abrir_textField, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
+                        .addComponent(Buscar_button))
                     .addComponent(Abrir_button))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addGroup(layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
@@ -249,12 +260,62 @@ public class miApplet extends javax.swing.JApplet {
         jLabel10.setForeground(Color.red);
         jLabel10.setText(ListaConsulta.get(9));
     }//GEN-LAST:event_Abrir_buttonActionPerformed
+
+    private void Buscar_buttonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_Buscar_buttonActionPerformed
+        // TODO add your handling code here:
+        String texto = new String();
+        ArrayList<String> ListaDiscurso = new ArrayList<String>();
+        ArrayList<String> ListaConsulta = new ArrayList<String>();
+        indice_LCN indice = new indice_LCN();
+        
+        texto = Abrir_textField.getText();
+        
+        ListaDiscurso.add(texto);
+        
+        try{
+            ListaConsulta = indice.consultarIndice(ListaDiscurso);
+        }catch(Exception ex){
+            
+        }
+        
+        jLabel1.setForeground(Color.red);
+        jLabel1.setText(ListaConsulta.get(0));
+        
+        jLabel2.setForeground(Color.red);
+        jLabel2.setText(ListaConsulta.get(1));
+        
+        jLabel3.setForeground(Color.red);
+        jLabel3.setText(ListaConsulta.get(2));
+        
+        jLabel4.setForeground(Color.red);
+        jLabel4.setText(ListaConsulta.get(3));
+        
+        jLabel5.setForeground(Color.red);
+        jLabel5.setText(ListaConsulta.get(4));
+        
+        jLabel6.setForeground(Color.red);
+        jLabel6.setText(ListaConsulta.get(5));
+        
+        jLabel7.setForeground(Color.red);
+        jLabel7.setText(ListaConsulta.get(6));
+        
+        jLabel8.setForeground(Color.red);
+        jLabel8.setText(ListaConsulta.get(7));
+        
+        jLabel9.setForeground(Color.red);
+        jLabel9.setText(ListaConsulta.get(8));
+        
+        jLabel10.setForeground(Color.red);
+        jLabel10.setText(ListaConsulta.get(9));
+        
+    }//GEN-LAST:event_Buscar_buttonActionPerformed
                                            
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JButton Abrir_button;
     private javax.swing.JTextArea Abrir_textArea;
     private javax.swing.JTextField Abrir_textField;
+    private javax.swing.JButton Buscar_button;
     private javax.swing.JLabel jLabel1;
     private javax.swing.JLabel jLabel10;
     private javax.swing.JLabel jLabel2;
